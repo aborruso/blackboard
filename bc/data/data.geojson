@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+    "type": "Feature",
+    "properties": {
+      "title": "Bene",
+      "description": "Come quando",
+      'marker-size': 'medium',
+      'marker-color': '#f0a'
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        12.62603759765625,
+        37.9593578107923
+        ]
+      }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Male",
+          "description": "Fuori piove",
+          'marker-size': 'medium',
+          'marker-color': '#f0a'
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+            12.896575927734373,
+            37.921451170095295
+            ]
+          }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "title": "Medio",
+              "description": "Forte e chiaro",
+              'marker-size': 'medium',
+              'marker-color': '#f0a'
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                13.113555908203125,
+                38.12159327165922
+                ]
+              }
+            }
+            ]
+          }

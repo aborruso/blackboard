@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8 />
+	<title>A Simple Map</title>
+
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+	<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.1/mapbox.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.1/mapbox.css' rel='stylesheet' />
+
+	<style>
+	body { margin:0; padding:0; }
+	#map { width:800px; height:400px}
+	</style>
+</head>
+<body>
+	<div id='map'></div>
+	<p><a href="#" onclick="return vaialpunto(38,13.2);">Vai al punto 1</a></p>
+		
+	<script>
+
+	function vaialpunto(lat,lon){
+		map.setView([lat, lon], 9);
+	}
+
+	var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
+	.setView([38, 13], 9);
+
+	L.mapbox.featureLayer({
+		"type": "FeatureCollection",
+		"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Bene",
+				"description": "Come quando",
+				'marker-size': 'medium',
+				'marker-color': '#f0a'
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+				12.62603759765625,
+				37.9593578107923
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Male",
+				"description": "Fuori piove",
+				'marker-size': 'medium',
+				'marker-color': '#f0a'
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+				12.896575927734373,
+				37.921451170095295
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Medio",
+				"description": "Forte e chiaro",
+				'marker-size': 'medium',
+				'marker-color': '#f0a'
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+				13.113555908203125,
+				38.12159327165922
+				]
+			}
+		}
+		]
+	}).addTo(map);
+	</script>
+</body>
+</html>
