@@ -24,7 +24,7 @@
 }],
   "resources": [
     {
-      "name": "data",
+      "name": "confiscati_bene",
       "url": "https://github.com/aborruso/blackboard/raw/master/data/beni_immobili/confiscati_bene.csv",
       "format": "csv",
       "mediatype": "text/csv",
