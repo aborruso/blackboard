@@ -70,7 +70,7 @@
           },
           {
             "id": "Dettaglio bene",
-            "description": "Uleteriori dettagli sul bene",
+            "description": "Ulteriori dettagli sul bene",
             "type": "string"
           },
           {
