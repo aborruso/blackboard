@@ -12,15 +12,75 @@
   ],
   "resources": [
     {
-      "name": "web_beni_confiscati_02_04",
-      "url": "https://github.com/spaghetti-open-data/beni-confiscati-aperti/raw/gh-pages/dati/web_beni_confiscati_02_04.csv",
+      "name": "data",
+      "url": "https://github.com/aborruso/blackboard/raw/master/data/beni_immobili/data.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
-            "id": "ID;tipo;PRO_COM;NOME_COM;NOME_PRO;NOME_REG;stato;Categoria;Sottocategoria;Ente destinatario;Dettaglio bene;Decreto destinazione;SourcePageURL",
+            "id": "ID",
+            "description": "Progressivo numerico univoco",
+            "type": "integer"
+          },
+          {
+            "id": "tipo",
+            "description": "Tipo di bene confiscato",
+            "type": "string"
+          },
+          {
+            "id": "PRO_COM",
+            "description": "Codice identificativo Comune ISTAT",
+            "type": "integer"
+          },
+          {
+            "id": "NOME_COM",
+            "description": "Nome Comune ISTAT",
+            "type": "string"
+          },
+          {
+            "id": "NOME_PRO",
+            "description": "Nome Provincia ISTAT",
+            "type": "string"
+          },
+          {
+            "id": "NOME_REG",
             "description": "",
+            "type": "Nome Regione ISTAT"
+          },
+          {
+            "id": "stato",
+            "description": "Stato del bene",
+            "type": "string"
+          },
+          {
+            "id": "Categoria",
+            "description": "Categoria del bene",
+            "type": "string"
+          },
+          {
+            "id": "Sottocategoria",
+            "description": "Sottocategoria del bene",
+            "type": "string"
+          },
+          {
+            "id": "Ente destinatario",
+            "description": "Ente destinatario del bene",
+            "type": "string"
+          },
+          {
+            "id": "Dettaglio bene",
+            "description": "Uleteriori dettagli sul bene",
+            "type": "string"
+          },
+          {
+            "id": "Decreto destinazione",
+            "description": "Decreto di destinazione del bene",
+            "type": "string"
+          },
+          {
+            "id": "SourcePageURL",
+            "description": "URL della pagina sorgente dati dell'Agenzia Beni Confiscati",
             "type": "string"
           }
         ]
