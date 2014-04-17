@@ -18,6 +18,10 @@
   "name": "ISTAT - Confini amministrativi dei sistemi locali del lavoro e delle NUTS2 in versione generalizzata",
   "web": "http://www.istat.it/it/archivio/24613"
 }],
+  "maintainers":[ {
+  "name": "Spaghetti Opendata",
+  "web": "http://www.spaghettiopendata.org/"
+}],
   "resources": [
     {
       "name": "data",
