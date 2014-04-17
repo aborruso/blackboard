@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "title": "",
+  "description": "",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "name": "Public Domain Dedication and License",
+      "version": "1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "web_beni_confiscati_02_04",
+      "url": "https://github.com/spaghetti-open-data/beni-confiscati-aperti/raw/gh-pages/dati/web_beni_confiscati_02_04.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "ID;tipo;PRO_COM;NOME_COM;NOME_PRO;NOME_REG;stato;Categoria;Sottocategoria;Ente destinatario;Dettaglio bene;Decreto destinazione;SourcePageURL",
+            "description": "",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
