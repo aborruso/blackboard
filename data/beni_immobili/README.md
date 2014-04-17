@@ -6,4 +6,4 @@ I dati pubblicati sul [sito](http://www.benisequestraticonfiscati.it/Joomla/) de
 
 Li abbiamo estratti, resi disponibili come open data e usati per consentire a tutti di esplorarli in modo intuitivo, anche attraverso visualizzazioni. Consideratelo un regalo di Spaghetti Open Data, un segno di apprezzamento per il lavoro prezioso fatto dall'ANBSC e dalle tante imprese e associazioni che lavorano sui beni confiscati in tutta Italia.
 
-Noi siamo arrivati fino a qui, ma moltissimo si può ancora fare. Per proseguire insieme, chiediamo all'ANSBC di aprire questi dati in modo che possano essere **Confiscati bene**.
+Questo è il dataset relativo ai soli **beni immobili**.
