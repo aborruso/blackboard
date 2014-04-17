@@ -45,8 +45,8 @@
           },
           {
             "id": "NOME_REG",
-            "description": "",
-            "type": "Nome Regione ISTAT"
+            "description": "Nome Regione ISTAT",
+            "type": "string"
           },
           {
             "id": "stato",
