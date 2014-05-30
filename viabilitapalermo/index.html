@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8 />
+    <title>Viabilit&agrave; Palermo</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css' rel='stylesheet' />
+    <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+    
+    <div id='map'></div>
+
+    <script>
+
+    var map = L.map('map',{maxZoom:18,minZoom:14}).addControl(L.mapbox.shareControl());
+
+    map.setView([38.12781,13.33168], 17)
+
+
+    var OSM = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+
+    var realvista = L.tileLayer.wms("http://213.215.135.196/reflector/open/service?", {
+        layers: 'rv1',
+        format: 'image/jpeg',
+        attribution: 'RealVista1.0 WMS OPEN',
+    });
+
+    var viabilita = L.tileLayer('tiles/{z}/{x}/{y}.png', {
+        minZoom: 14,
+        maxZoom: 18,
+        attribution: 'Comune di Palermo',
+        tms: true,
+        opacity: 0.7
+    }).addTo(map);
+
+
+    var baseMaps = {
+        'Ortofoto': realvista,
+        'OpenStreetMap': OSM
+    };
+
+    var overlays = {
+        "Viabilià": viabilita
+    };
+
+    layerControl = L.control.layers(baseMaps, overlays, {position: 'topleft'});
+    layerControl.addTo(map);
+
+
+    </script>
+</body>
+</html>
