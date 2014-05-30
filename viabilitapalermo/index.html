@@ -2,18 +2,63 @@
 <html>
 <head>
     <meta charset=utf-8 />
-    <title>Viabilit&agrave; Palermo</title>
+    <title>Viabilit&agrave; Palermo - ZONA LEONARDO DA VINCI</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css' rel='stylesheet' />
     <style>
     body { margin:0; padding:0; }
     #map { position:absolute; top:0; bottom:0; width:100%; }
+
+    #map-ui {
+        position: absolute;
+        top: 2px;
+        right: 2px;
+        z-index: 100;
+        border-width: 1px;
+        -webkit-border-radius: 3px 3px 3px 3px;
+        border-radius: 3px 3px 3px 3px;
+        background: #3887BE;
+        border-color: #3887BE;
+        border-top-color: #FFF;
+        padding: 2px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        max-height: 50px;
+        font-size: 11px;
+    }
+    #map-ui p {
+        padding: 0px;
+        margin: 0px 2px 0px 2px;
+        color: #DAE0F1;
+        font-size: 11px;
+    }
+    #map-ui img {
+        padding: 0px;
+        margin: 0px;
+    }
+    #map-ui a:link { 
+        color: #FFF;
+    }
+    #map-ui a:visited { 
+        color: #FFF;
+    }
+    #map-ui a:hover {
+        color: #FFF;
+    }
+    #map-ui a:active { 
+        color: #FFF;
+    }
     </style>
 </head>
 <body>
-    
-    <div id='map'></div>
+
+    <div id='map'>
+        <div id="map-ui">
+            <p>a cura di <a href="https://twitter.com/aborruso" target="_blank">@aborruso</a> e <a href="https://www.facebook.com/pigreco314" target="_blank">Salvatore Fiandaca</a> di <a href="https://www.facebook.com/groups/opendatasicilia/" target="_blank">Open Data Sicilia</a>
+            </p>
+        </div>
+    </div>
 
     <script>
 
