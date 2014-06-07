@@ -68,7 +68,7 @@
     map.setView([38.12781,13.33168], 17)
 
 
-    var mapbox = new L.tileLayer('http://{s}.tiles.mapbox.com/v3/aborruso.ieol8n34/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '<a href="http://mapbox.com">MapBox</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'}).addTo(map);
+    var mapbox = L.tileLayer('http://{s}.tiles.mapbox.com/v3/aborruso.ieol8n34/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '<a href="http://mapbox.com">MapBox</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'}).addTo(map);
 
 
     var realvista = L.tileLayer.wms("http://213.215.135.196/reflector/open/service?", {
@@ -88,7 +88,7 @@
 
     var baseMaps = {
         'Ortofoto': realvista,
-        'OpenStreetMap': MapBox
+        'OpenStreetMap': mapbox
     };
 
     var overlays = {
