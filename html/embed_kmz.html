@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Palermo - pedonalizzazioni Tribunali</title>
+<META NAME="description" CONTENT="">
+<script src="http://www.google.com/jsapi?key="></script>
+<script type="text/javascript">
+google.load("earth", "1");
+
+var ge = null;
+
+function el(e) { return document.getElementById(e); }
+
+function init() {
+  google.earth.createInstance("mappa", initCB, failureCB);
+}
+
+function initCB(object) {
+  ge = object;
+  ge.getWindow().setVisibility(true);
+  var navControl = ge.getNavigationControl();
+  navControl.setVisibility(ge.VISIBILITY_SHOW);
+
+  var layerRoot = ge.getLayerRoot();
+  var terrainLayer = layerRoot.getLayerById(ge.LAYER_TERRAIN);
+  layerRoot.enableLayerById(ge.LAYER_TERRAIN, false);
+  layerRoot.enableLayerById(ge.LAYER_ROADS, false);
+  layerRoot.enableLayerById(ge.LAYER_BUILDINGS, false);
+  ge.getOptions().setFlyToSpeed(.25); 
+
+  var networkLink = ge.createNetworkLink("");
+  networkLink.setDescription("NetworkLink open to fetched content");
+  networkLink.setName("Open NetworkLink");
+  networkLink.setFlyToView(true);
+  var link = ge.createLink("");
+  link.setHref("pedonalizzazioni_tribunali.kmz");
+  networkLink.setLink(link);
+  ge.getGlobe().getFeatures().appendChild(networkLink);
+}
+
+function failureCB(object) {
+  alert('load failed');
+}
+
+</script>
+
+</head>
+<body onload='init()' id='body'>
+
+<div id='mappa' style='border: 0px; width: 100%; height: 100%;'>
+	<div id='mappa' style='height: 100%;'></div>
+</div>
+
+</body>
+</html>
