@@ -5,12 +5,12 @@
 	<LookAt>
 		<gx:TimeStamp><when>2014-02-11T10:50:17Z</when>
 </gx:TimeStamp>
-		<longitude>13.36804293157788</longitude>
-		<latitude>38.11768659303939</latitude>
+		<longitude>13.36849167951767</longitude>
+		<latitude>38.1137766406726</latitude>
 		<altitude>0</altitude>
-		<heading>-9.66864769004798e-010</heading>
-		<tilt>60.37453322201608</tilt>
-		<range>2494.082866301319</range>
+		<heading>0.0002736834558263485</heading>
+		<tilt>57.84662178222319</tilt>
+		<range>1944.093814292039</range>
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
 	<Style>
