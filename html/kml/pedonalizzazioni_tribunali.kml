@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>pedonalizzazioni_tribunali</name>
+	<LookAt>
+		<gx:TimeStamp><when>2014-02-11T10:50:17Z</when>
+</gx:TimeStamp>
+		<longitude>13.36804293157788</longitude>
+		<latitude>38.11768659303939</latitude>
+		<altitude>0</altitude>
+		<heading>-9.66864769004798e-010</heading>
+		<tilt>60.37453322201608</tilt>
+		<range>2494.082866301319</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Style>
+		<ListStyle id="hideChildren">
+			<listItemType>checkHideChildren</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Region>
+		<LatLonAltBox>
+			<north>38.120456</north>
+			<south>38.108113</south>
+			<east>13.377611</east>
+			<west>13.355724</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+	</Region>
+	<NetworkLink>
+		<open>1</open>
+		<Region>
+			<LatLonAltBox>
+				<north>38.120456</north>
+				<south>38.108113</south>
+				<east>13.377611</east>
+				<west>13.355724</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>111</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>0/0/0.kml</href>
+			<viewRefreshMode>onRegion</viewRefreshMode>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
