@@ -11,7 +11,7 @@
 		"version": "1.0"
 		},
 	"resources": [{
-		"name":"data"
+		"name":"data",
 		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/data.csv",
 		"format": "csv",
       "mediatype": "text/csv",
