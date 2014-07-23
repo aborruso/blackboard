@@ -14,8 +14,8 @@
 		"version": "1.0"
 		},
 	"resources": [{
-		"name":"datapackage",
-		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/datapackage.json",
+		"name":"gpp_appalti",
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gpp_appalti.json",
 		"format": "json",
       "mediatype": "application/json",
 		"schema": {
