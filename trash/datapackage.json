@@ -2,7 +2,10 @@
 	"name": "gpp_appalti",
 	"title": "Grande Progetto Pompei: gare d'appalto e contratti",
 	"description":"Interventi appaltati dalla Soprintendenza Speciale per i Beni Archeologici di Pompei, Ercolano e Stabia nell'ambito del Grande Progetto Pompei. Il flusso di lavoro consiste nell'individuare progetti di intervento, su cui vengono appostate risorse; pubblicare un bando di gara relativo a ciascun progetto; e firmare un contratto con il vincitore della gara. In ogni momento del tempo ci possono essere progetti che non hanno ancora dato luogo a bandi, e bandi in corso di assegnazione che non hanno ancora dato luogo a contratti. <br> Il Grande Progetto Pompei è un progetto di riqualificazione e valorizzazione del parco archeologico di Pompei. Si basa sull'Intesa Interistituzionale Legalità e Sicurezza del 20 Gennaio 2012 tra il Ministro della Coesione, il Ministro dei Beni e delle Attività Culturali, il Ministro dell’Interno, il Ministro dell’Istruzione, dell’Università e della Ricerca ed il Presidente dell'Autorità di Vigilanza sui contratti pubblici per la sicurezza degli appalti, con la firma del Protocollo di Legalità del 5 aprile 2012. Informazioni: http://www.pompeiisites.org/Sezione.jsp?titolo=Il+Progetto&idSezione=357",
-	"sources": "Ministero dei beni e delle attività culturali e del turismo.",
+	"sources": [{
+  "name": "Ministero dei beni e delle attività culturali e del turismo.",
+  "web": "http://www.beniculturali.it/mibac/export/MiBAC/index.html"
+}],
 	"last_updated": "2014-07-15",
 	"license": 
 		{
