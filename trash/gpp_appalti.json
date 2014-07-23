@@ -11,7 +11,6 @@
 		"version": "1.0"
 		},
 	"resources": [{
-		"path": "gpp_appalti.json",
 		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gpp_appalti.csv",
 		"format": "csv",
       	"mediatype": "text/csv",
