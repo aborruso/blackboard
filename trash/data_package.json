@@ -1,0 +1,235 @@
+{
+	"name": "gpp_appalti",
+	"title": "Grande Progetto Pompei: gare d'appalto e contratti",
+	"description":"Interventi appaltati dalla Soprintendenza Speciale per i Beni Archeologici di Pompei, Ercolano e Stabia nell'ambito del Grande Progetto Pompei. Il flusso di lavoro consiste nell'individuare progetti di intervento, su cui vengono appostate risorse; pubblicare un bando di gara relativo a ciascun progetto; e firmare un contratto con il vincitore della gara. In ogni momento del tempo ci possono essere progetti che non hanno ancora dato luogo a bandi, e bandi in corso di assegnazione che non hanno ancora dato luogo a contratti. <br> Il Grande Progetto Pompei è un progetto di riqualificazione e valorizzazione del parco archeologico di Pompei. Si basa sull'Intesa Interistituzionale Legalità e Sicurezza del 20 Gennaio 2012 tra il Ministro della Coesione, il Ministro dei Beni e delle Attività Culturali, il Ministro dell’Interno, il Ministro dell’Istruzione, dell’Università e della Ricerca ed il Presidente dell'Autorità di Vigilanza sui contratti pubblici per la sicurezza degli appalti, con la firma del Protocollo di Legalità del 5 aprile 2012. Informazioni: <a href = 'http://www.pompeiisites.org/Sezione.jsp?titolo=Il+Progetto&idSezione=357>http://www.pompeiisites.org/Sezione.jsp?titolo=Il+Progetto&idSezione=357</a>.",
+	"sources": "Ministero dei beni e delle attività culturali e del turismo.",
+	"last_updated": "2014-07-15",
+	"license": 
+		{
+		"url": "http://creativecommons.org/licenses/by/4.0/",
+		"name": "Creative Commons 4.0 Attribuzione",
+		"version": "1.0"
+		},
+	"resources": [{
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gpp_appalti.json",
+		"format": "json",
+		"schema": {
+			"fields": [
+				{
+				"name": "ID bando",
+				"type": "string",
+				"description": "codice identificativo del bando"
+				},
+				{
+				"name": "Progetto",
+				"type": "string",
+				"description": "titolo del progetto a cui il bando si riferisce"
+				},
+				{
+				"name": "CIG",
+				"type": "string",
+				"description": "il codice unico di gara relativo al bando"
+				},
+				{
+				"name": "Data pubblicazione",
+				"type": "date",
+				"description": "la data in cui il bando è stato pubblicato"
+				},
+				{
+				"name": "Num perizia",
+				"type": "string",
+				"description": ""
+				},
+				{
+				"name": "Tipo gara",
+				"type": "string",
+				"description": "procedura utilizzata per selezionare l'offerta migliore"
+				},
+				{
+				"name": "Num ditte invitate",
+				"type": "integer",
+				"description": "il numero delle aziende invitate a presentare un'offerta. si applica alle gare con procedura ristretta."
+				},
+				{
+				"name": "Protocollo determina",
+				"type": "string",
+				"description": ""
+				},
+				{
+				"name": "Num perizia",
+				"type": "string",
+				"description": ""
+				},
+				{
+				"name": "RUP",
+				"type": "string",
+				"description": "nome e cognome del responsabile unico di progetto"
+				},
+				{
+				"name": "ID progetto",
+				"type": "string",
+				"description": "identificativo del progetto"
+				},
+				{
+				"name": "Oggetto",
+				"type": "string",
+				"description": "descrizione sintetica del progetto"
+				},
+				{
+				"name": "CUP",
+				"type": "string",
+				"description": "codice unico di progetto (http://it.wikipedia.org/wiki/Codice_unico_di_progetto)"
+				},
+				{
+				"name": "Tipologia",
+				"type": "string",
+				"description": "categoria riferita al progetto"
+				},
+				{
+				"name": "Sigla grande progetto",
+				"type": "string",
+				"description": "la sigla del grande progetto che finanzia l'intervento"
+				},
+				{
+				"name": "Piano",
+				"type": "string",
+				"description": "il piano del Grande Progetto Pompei a cui il progetto fa riferimento. I piani sono: Piano della conoscenza, Piano delle opere a progettualità avanzata, Piano per la fruizione, il miglioramento dei servizi e la comunicazione, Piano della sicurezza, Piano di rafforzamento tecnologico e capacity building."
+				},
+				{
+				"name": "Durata giorni",
+				"type": "integer",
+				"description": "durata prevista per il progetto in giorni"
+				},
+				{
+				"name": "Importo base asta",
+				"type": "number ",
+				"description": "l'importo della base d'asta (EUR)"
+				},
+				{
+				"name": "Oneri della sicurezza",
+				"type": "number",
+				"description": "parte della base d'asta riservata per la sicurezza (EUR)"
+				},
+				{
+				"name": "Iva",
+				"type": "number",
+				"description": "IVA sulla base d'asta (EUR)"
+				},
+				{
+				"name": "Somme a disposizione dell'amministrazione",
+				"type": "number",
+				"description": ""
+				},
+				{
+				"name": "Aliquota forfettaria",
+				"type": "number",
+				"description": ""
+				},
+				{
+				"name": "Importo lavori",
+				"type": "number",
+				"description": "importi destinati a lavori di costruzione e restauro (EUR)"
+				},
+				{
+				"name": "Importo servizi",
+				"type": "number",
+				"description": "importi destinati a servizi (EUR)"
+				},
+				{
+				"name": "Importo forniture",
+				"type": "number",
+				"description": "importi destinati a acquisti (EUR)"
+				},
+				{
+				"name": "Importo totale",
+				"type": "number",
+				"description": "somma dei campi: importo lavori, importo servizi, importo forniture, oneri per la sicurezza, iva e aliquota forfettaria (EUR)"
+				},
+				{
+				"name": "Dettaglio localizzazione",
+				"type": "string",
+				"description": "luogo dove interviene il progetto"
+				},
+				{
+				"name": "Importo forniture",
+				"type": "number",
+				"description": "importi destinati a acquisti (EUR)"
+				},
+				{
+				"name": "ID contratto",
+				"type": "string",
+				"description": "identificativo del contratto"
+				},
+				{
+				"name": "Operatore capogruppo",
+				"type": "string",
+				"description": "nome dell'impresa appaltatrice main contractor"
+				},
+				{
+				"name": "Operatori associati",
+				"type": "string",
+				"description": "nomi di imprese che partecipano al consorzio vincitore dell'appalto ma non fungono da main contractor"
+				},
+				{
+				"name": "Data stipula",
+				"type": "date",
+				"description": "data della stipula del contratto"
+				},
+				{
+				"name": "Sotto riserva di legge",
+				"type": "boolean",
+				"description": ""
+				},
+				{
+				"name": "Data prevista inizio lavori",
+				"type": "date",
+				"description": "data prevista di inizio lavori"
+				},
+				{
+				"name": "Data prevista fine lavori",
+				"type": "date",
+				"description": "data prevista di fine lavori"
+				},
+				{
+				"name": "Importo contratto",
+				"type": "number",
+				"description": "importo del contratto (imponibile - EUR)"
+				},
+				{
+				"name": "Iva contratto",
+				"type": "number",
+				"description": "importo dell'iva sul contratto (EUR)"
+				},
+				{
+				"name": "Data inizio validita",
+				"type": "date",
+				"description": "data di inizio validità del contratto"
+				},
+				{
+				"name": "Data fine validita",
+				"type": "date",
+				"description": "data di fine validità del contratto"
+				},
+				{
+				"name": "Data risoluzione",
+				"type": "date",
+				"description": "data di risoluzione del contratto"
+				},
+				{
+				"name": "ID conti appaltatore",
+				"type": "string",
+				"description": ""
+				},
+				{
+				"name": "Latitudine",
+				"type": "number",
+				"description": "latidudine dell'artefatto oggetto dell'intervento. Per interventi immateriali è riferita alla sede del Grande Progetto Pompei"
+				},
+				{
+				"name": "Longitudine",
+				"type": "number",
+				"description": "longitudine dell'artefatto oggetto dell'intervento. Per interventi immateriali è riferita alla sede del Grande Progetto Pompei"
+				}
+		]}
+	}]
+}   
