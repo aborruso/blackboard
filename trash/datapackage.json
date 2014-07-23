@@ -11,8 +11,10 @@
 		"version": "1.0"
 		},
 	"resources": [{
-		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gpp_appalti.json",
-		"format": "json",
+	  "name": "data",
+      "url": "https://raw.githubusercontent.com/spaghetti-open-data/beni-confiscati-aperti/gh-pages/dati/beni_immobili/data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
 		"schema": {
 			"fields": [
 				{
