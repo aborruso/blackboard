@@ -11,10 +11,9 @@
 		"version": "1.0"
 		},
 	"resources": [{
-	  "name": "data",
-      "url": "https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/data.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
+		"name":"gpp_appalti",
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gpp_appalti.json",
+		"format": "json",
 		"schema": {
 			"fields": [
 				{
