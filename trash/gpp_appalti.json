@@ -11,9 +11,10 @@
 		"version": "1.0"
 		},
 	"resources": [{
-		"path": "data/gpp_appalti.json",
-		"url":"http://pompeiisites.org/data/gpp_appalti.json",
-		"format": "json",
+		"path": "gpp_appalti.json",
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gpp_appalti.csv",
+		"format": "csv",
+      	"mediatype": "text/csv",
 		"schema": {
 			"fields": [
 				{
