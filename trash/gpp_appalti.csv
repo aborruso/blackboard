@@ -1,18 +1,245 @@
-ID bando	Progetto	CIG	Data pubblicazione	Num perizia	Tipo gara	Num ditte invitate	Protocollo determina	RUP	ID progetto	Oggetto	CUP	Tipologia	Sigla grande progetto	Piano	Durata giorni	Importo base asta	Oneri della sicurezza	IVA	Somme a disposizione dell'amministrazione	Aliquota forfettaria	Importo lavori	Importo servizi	Importo forniture	Importo totale	Dettaglio localizzazione	ID contratto	Operatore capogruppo	Operatori associati	Data stipula	Sotto riserva di legge	Data prevista inizio lavori	Data prevista fine lavori	Importo contratto	Data inizio validita	Data fine validita	Data risoluzione	ID conti appaltatore	Latitudine	Longitudine
-44636	Acquisto attrezzature hardware e software	5511366B17	2013-12-13	36298	Sistema dinamico di acquisizione	0	225	Luisa Rapone	44631		F69J13000530006	Sistemi tecnologici	G.P.P.	Piano di rafforzamento tecnologico e di capacity building	60	110200	0		0		0.0	0	110200	990000														40.7461572	14.4989344
-14403	Consolidamento e restauro delle strutture della Casa del Criptoportico	41064963B3	2012-04-03	14	Procedura ristretta	33		Ernesto De Carolis	14400		F64B12000120001	Restauro architettonico	G.P.P.	Piano delle opere	370	563161.18	8539.11	63973.54	98669.21		455952.86	0	0	750000	Civico 2	21350	Perillo Costruzioni Generali		2013-05-14	true	2013-02-01	2014-02-18	304635.9				21352,48827,55528	40.7505464	14.4894648
-55542	Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII	5472771180		0	Procedura ai sensi art. 204 comma 1 e art. 122 comma 7 del Dlgs163/2006.	8	Decreto n° 230	Grete Stefani	55532		F63D13000720006	Diagnosi e monitoraggio	G.P.P.	Piano della conoscenza	60	134257.95	13620.86		15706.22	4436	77037.78	39163.31	0	18236555		56011	Geomed Srl Geoarcheologia e Geologia Ambientale		2014-06-17	true							56012	40.7461572	14.4989344
-30336	Lavori di consolidamento e restauro delle strutture della Casa del Marinaio	41068675DB	2012-04-13	11	Procedura ristretta	33	13207	Ernesto De Carolis	30331		F64B12000090001	Restauro architettonico	G.P.P.	Piano delle opere	550	1012535.81	29311.55	122930.09	33991.5		949232.76	0	0	101253581	Casa del Marinaio	33273	Forte Costruzioni e Restauri		2013-11-13	true	2013-08-05	2015-02-06	585381.36				31375	40.7491808	14.4834559
-13804	Lavori di consolidamento e restauro delle strutture della Casa di Sirico	4106680B88	2012-04-02	10	Procedura ristretta	36	13210/2012	Ernesto De Carolis	13802		F64B12000110001	Restauro architettonico		Piano delle opere	730	1243326.33	21777.26		217953.89	0	1221549.09	0	0	177814907		30046	Perillo Costruzioni Generali		2013-06-27	false	2013-06-28	2015-06-28	572085.11				21352,48827,55528	40.7501216	14.4869097
-16225	Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX)	46223167d3	2012-11-09	1	Procedura aperta	0		Bruno Sammarco	16214		F69G12000090006	Messa in sicurezza	G.P.P.	Piano delle opere	360	1995224.42	75125.96		-1	26906.4	1995224.42	0	0	209725678		48828	Perillo Costruzioni Generali		2014-03-20	true							21352,48827,55528	40.7461572	14.4989344
-47940	Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI	51694805D8	2013-07-18	6	Affidamento in unico lotto dell’appalto misto, ai sensi degli artt. 14 e 15 del D.lgs.163/2006, di lavori e dei servizi	0		Valerio Papaccio	47938	Affidamento in unico lotto dell’appalto misto, ai sensi degli artt. 14 e 15 del D.lgs.163/2006, di lavori e dei servizi per i “Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI” - CUP: F66D12000440006	F66D12000440006	Messa in sicurezza	G.P.P.	Piano delle opere	513	3605115.15	174869.34		656951.77	38467.09	2636319.52	151679.67	0	436218933		55927	Perillo Costruzioni Generali	ATRAMENTUM	2014-06-16	true							21352,48827,55528	40.7516818	14.4840964
-47753	Lavori di messa in sicurezza Regio VII in Pompei Scavi.	5169367897	2013-07-19	7	Procedura aperta	0		Immacolata Bergamasco	47672	Affidamento in unico lotto dell'appalto misto di lavori e servizi	F64B13000310006	Messa in sicurezza	G.P.P.	Piano delle opere	510	3997358.3	339908		0		3276944.04	344528.14	0															40.7501985	14.4845957
-55531	Lavori di restauro dell'Insula 15, regio VII in Pompei scavi - Intervento n° C	5254237D86		Intervento n° C	Procedura aperta	0		Ernesto De Carolis	55530	"Affidamento in un unico lotto dei ""Lavori di restauro dell'Insula 15, regio VII in Pompei scavi - Intervento n° C"""	F68I13000080006	Restauro architettonico	G.P.P.	Piano delle opere	420	530502.64	25434.87		0	27392.96	477674.81	0	0	53050264														40.7502499	14.4843038
-48245	Lavori di ripristino e di consolidamento delle strutture della casa della Fontana Piccola – Pompei Scavi	52070322BD	2013-07-23	26	Procedura aperta	0	21163	Stefania Argenti	16218	Lavori di ripristino e di consolidamento delle strutture della casa della Fontana Piccola – Pompei Scavi – Intervento n° 26 -	F68I11000120007	Messa in sicurezza	G.P.P.	Piano delle opere	180	249523.39	30103.97		19571.47	13308	186539.95	19571.47	0	2979233														40.7512887	14.4835727
-48261	Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7	520699015	2013-07-24	31	Procedura aperta	0	21165	Vega Ingravallo	52139	"Affidamento in sei lotti del ""Piano della conoscenza - Servizi di diagnosi e monitoraggio dello stato di conservazione di Pompei""."		Diagnosi e monitoraggio	G.P.P.	Piano della conoscenza	300	6436971.12	327841.32		134739.41	129788.8	0.0	5979341	0	801748685														40.7506957	14.4896692
-42298	PON Sicurezza per lo sviluppo - Obiettivo Convergenza 2007-2013 - Una nuova sicurezza per il parco archeologico di Pompei - STRALCIO	5337430A90	2013-09-24	1	Affidamento in economia - cottimo fiduciario	0	Decreto n. 120 del Soprintendente SANP	Alberto Bruni	42296	Stralcio del PON Sicurezza - Sistema videosorveglianza monitoraggio cantieri e aree di stoccaggio	F69G12000100006	Sicurezza sito	G.P.P.	PON Sicurezza per lo sviluppo - Obiettivo Convergenza 2007-2013	60	129799.69	4211.1		0		0.0	0	125588.59	12979969	Aree cantieri, stoccagio e ingressi cantieri scavi Pompei	42970	Consorzio Nazionale Sicurezza		2013-12-12	true	2013-12-12						42969	40.7461572	14.4989344
-28528	"Realizzazione del Convegno ""Moenia e Urbs"""	ZB20A0B176	2013-05-23	1	Sistema dinamico di acquisizione	3		Luisa Rapone	28446	"Servizio di consulenza, supporto operativo, tecnico e logistico per la realizzazione del Convegno ""Moenia e urbs""."		Attività di promozione	G.P.P.	Piano per la fruizione, il miglioramento dei servizi e della comunicazione	30	20000	0	3225.6	0	0	0.0	15360	0	185856		28636	Andromeda s.r.l.		2013-06-03	false	2013-06-05	2013-06-08	15360				28635	40.7461572	14.4989344
-48233	Restauro apparati decorativi della Casa di Venere in Conchiglia in Pompei	517698030B	2013-07-06	30	Procedura aperta	0	20623	Anna Maria Sodo	16223		F64B12000370006	Restauro apparati decorativi	G.P.P.	Piano delle opere	210	657351.04	14769.02		142510.26	15297.31	657351.04	0	0	98634192														40.7518483	14.4928699
-16800	Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse	410706486C	2012-04-03	13	Procedura ristretta	40	13206	Ernesto De Carolis	16216		F64B12000080001	Restauro architettonico	G.P.P.	Piano delle opere	275	192298.52	3687.88		74075.59		170377.92	0	18232.72	32231267		31394	Forte Costruzioni e Restauri		2013-11-06	true	2013-07-18	2014-04-19	192298.52				31375	40.7489221	14.4869854
-18302	Restauro architettonico e strutturale Casa dei Dioscuri	4106773848	2012-04-03	12	Procedura ristretta	22	13208	Ernesto De Carolis	16215		F64B12000100001	Restauro architettonico	G.P.P.	Piano delle opere	730	1447735.45	17035.21	147461.49	0		1430700.24	0	0	205042591	Casa dei Dioscuri	21380	Perillo Costruzioni Generali		2013-05-14	true	2013-02-04	2015-02-04	702197.56				21352,48827,55528	40.7517468	14.4837588
-47947	Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino	5177088C28	2013-07-06	17	PROCEDURA APERTA EX ARTT. 55, COMMA 5, E 122 DEL DECRETO LEGISLATIVO 12 APRILE 2006 n. 163	0	20622	Anna Maria Sodo	16207		F64B12000380006	Restauro apparati decorativi	G.P.P.	Piano delle opere	210	461215.21	8568.87		110621.61	15297.31	461215.21	0	0	69192256		50027	C.B.C. CONSERVAZIONE BENI CULTURALI	Consorzio Arkè	2014-04-01	true							49840,54952	40.7517423	14.4923972
+type,label,Data-contratto-offerta,oggetto-offerta,CIG,importo-offerta,data-ricezione-offerta,offerente
+Offerta,17506,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"93.819,88",2012-09-06,EDIL.RE.CO.S
+Offerta,20146,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"773.875,23",2012-09-07,Research Consorzio
+Offerta,20159,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"939.352,05",2012-09-07,Pa.Co. Pacifico Costruzioni
+Offerta,20161,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"918.601,79",2012-09-07,C.I.E.S. COSTRUZIONI INDUSTRIALIZZATE EDILI STRADALI
+Offerta,20226,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"986.008,03",2012-09-04,Ronga
+Offerta,20227,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"842.531,55",2012-09-05,Lucci Salvatore Impresa di Costruzioni
+Offerta,20228,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"965.073,17",2012-09-05,Iota Restauro
+Offerta,20230,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"870.280,66",2012-09-06,COOPERATIVA ARCHEOLOGIA
+Offerta,20231,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"1.018.412,42",2012-09-06,TECNORES
+Offerta,20232,2013-05-14,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"685.162,35",2012-09-06,Perillo Costruzioni Generali
+Offerta,20233,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"944.267,19",2012-09-06,IMPRESA INGG MARIO E PAOLO COSENZA SRL
+Offerta,20234,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"872.220,7",2012-09-06,Ar.fe.ga.
+Offerta,20235,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"987.327,03",2012-09-06,Vitiello s.r.l.
+Offerta,20236,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"750.680,57",2012-09-06,EDIL.RE.CO.S
+Offerta,20237,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"952.977,01",2012-09-07,SAMOA RESTAURI SRL
+Offerta,20238,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"1.023.173,68",2012-09-07,Edilerica
+Offerta,20239,,Restauro architettonico e strutturale Casa dei Dioscuri,4106773848,"1.071.116,55",2012-09-07,Edil COOP
+Offerta,20250,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"396.703,47",2012-09-04,RCR Edilizia
+Offerta,20251,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"354.087,06",2012-09-07,TEKNO DOMUS RESTAURI S.R.L.
+Offerta,20252,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"406.072,63",2012-09-07,NEI RESTAURO E COSTRUZIONI SRL
+Offerta,20253,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"305.184,1",2012-07-07,SAMOA RESTAURI SRL
+Offerta,20254,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"315.282,47",2012-09-05,ES SRL PROGETTI E SISTEMI
+Offerta,20255,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"304.949,57",2012-09-05,Arkaikos Restauri
+Offerta,20436,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"310.408,01",2012-09-06,TECNORES
+Offerta,20437,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"468.878,47",2012-09-06,Lande
+Offerta,20438,2013-05-14,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"303.687,0",2012-09-06,Perillo Costruzioni Generali
+Offerta,20442,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"397.951,59",2012-09-06,Lattanzi
+Offerta,20449,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"401.664,73",2012-09-05,Valentino Giuseppe - Società di costruzioni e restauro monumenti
+Offerta,20450,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"361.674,14",2012-09-05,Iota Restauro
+Offerta,20451,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"355.343,96",2012-09-06,IMPRESA INGG MARIO E PAOLO COSENZA SRL
+Offerta,20457,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"437.388,33",2012-09-07,Galadini & C.
+Offerta,20458,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"408.705,95",2012-09-07,CO.GE.P.AR. COSTRUZIONI GENERALI SAS
+Offerta,20459,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"444.161,96",2012-09-07,Edil COOP
+Offerta,20460,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"387.580,51",2012-09-07,ARCHEO&RESTAURI SRL
+Offerta,20461,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"438.424,12",2012-09-07,Edilerica
+Offerta,20462,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"368.132,27",2012-09-05,Lucci Salvatore Impresa di Costruzioni
+Offerta,20463,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"339.473,08",2012-09-07,IMPROMED CONSORZIO STABILE S.p.A.
+Offerta,20464,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"289.598,22",2012-09-07,MINERVA di Vassallo Ludovico C.
+Offerta,20467,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"326.646,03",2012-09-04,Forte Costruzioni e Restauri
+Offerta,20483,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"372.477,13",2012-07-07,Gherardi ing. Giancarlo
+Offerta,20484,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"282.667,58",2012-07-07,I.CO.RES. S.r.l.
+Offerta,20485,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"270.672,65",2012-09-06,EDIL.RE.CO.S
+Offerta,21047,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"116.540,2",2012-08-30,Varchetta Maurilio Impresa Edile
+Offerta,21135,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"137.006,77",2012-08-30,Isam
+Offerta,21143,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"120.983,66",2012-09-03,General Costruzioni di Patella Giovanni
+Offerta,21144,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"135.068,29",2012-09-04,RCR Edilizia
+Offerta,21146,2013-11-06,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"108.984,75",2012-09-04,Forte Costruzioni e Restauri
+Offerta,21147,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"117.808,42",2012-09-05,ES SRL PROGETTI E SISTEMI
+Offerta,21148,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"118.129,7",2012-09-05,Lucci Salvatore Impresa di Costruzioni
+Offerta,21154,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"144.268,29",2012-09-05,Costruzioni Generali G.S.V.M.D.
+Offerta,21163,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"124.293,34",2012-09-05,Medusa Restauri
+Offerta,21168,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"142.603,4",2012-09-05,D'Erchia restauri
+Offerta,21332,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"125.237,46",2012-09-05,Ada Restauri
+Offerta,21333,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"120.184,03",2012-09-05,Iota Restauro
+Offerta,21334,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"133.126,34",2012-09-05,Valentino Giuseppe - Società di costruzioni e restauro monumenti
+Offerta,21426,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"375.990,15",2012-09-06,G&G Costruzioni
+Offerta,21427,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"404.813,09",2012-09-06,COOPERATIVA ARCHEOLOGIA
+Offerta,21428,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"393.290,84",2012-09-06,Vitiello s.r.l.
+Offerta,21429,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"377.873,04",2012-09-06,Ar.fe.ga.
+Offerta,21435,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"477.082,75",2012-09-07,CFC Group
+Offerta,21436,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"123.506,82",2012-09-06,Perillo Costruzioni Generali
+Offerta,21437,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"115.991,48",2012-09-06,TECNORES
+Offerta,21438,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"162.827,28",2012-09-06,Lande
+Offerta,21440,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"132.422,99",2012-09-06,Lattanzi
+Offerta,21441,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"120.195,91",2012-09-06,MATERAZZO ING. LUCIO SRL
+Offerta,21442,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"121.833,09",2012-09-06,Ar.fe.ga.
+Offerta,21443,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"139.354,87",2012-09-06,COOPERATIVA ARCHEOLOGIA
+Offerta,21444,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"132.529,4",2012-09-06,Vitiello s.r.l.
+Offerta,21445,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"120.013,49",2012-09-06,IMPRESA INGG MARIO E PAOLO COSENZA SRL
+Offerta,21446,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"99.795,72",2012-09-06,G&G Costruzioni
+Offerta,21647,,Consolidamento e restauro delle strutture della Casa del Criptoportico,41064963B3,"402.029,0",2012-09-04,DRD COSTRUZIONI S.R.L.
+Offerta,21937,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"162.957,3",2012-09-07,CFC Group
+Offerta,21938,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"116.234,36",2012-09-07,CO.GE.P.AR. COSTRUZIONI GENERALI SAS
+Offerta,21939,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"129.580,7",2012-09-07,Gherardi ing. Giancarlo
+Offerta,21942,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"113.546,4",2012-09-07,SAMOA RESTAURI SRL
+Offerta,21945,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"148.543,41",2012-09-07,Edilerica
+Offerta,21946,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"129.825,08",2012-09-07,ARCHEO&RESTAURI SRL
+Offerta,21947,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"123.378,33",2012-09-07,C.A.T.
+Offerta,21962,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"114.835,83",2012-09-07,MINERVA di Vassallo Ludovico C.
+Offerta,21963,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"132.965,21",2012-09-07,NEI RESTAURO E COSTRUZIONI SRL
+Offerta,21964,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"143.296,53",2012-09-07,Edil COOP
+Offerta,21975,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"119.648,02",2012-09-07,Fa.Ga.
+Offerta,21976,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"106.198,56",2012-09-07,TEKNO DOMUS RESTAURI S.R.L.
+Offerta,21977,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"145.250,63",2012-09-07,Galadini & C.
+Offerta,21978,,Restauro architettonico e messa in sicurezza della Casa delle Pareti Rosse,410706486C,"108.556,29",2012-09-07,IMPROMED CONSORZIO STABILE S.p.A.
+Offerta,22426,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.342.452,94",2012-12-11,A.D. Restauri & Costruzioni
+Offerta,22526,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.436.993,61",2012-12-11,A.P.S. Costruzioni S.r.l.
+Offerta,22527,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,APPALTI IN RESTAURI S.R.L.
+Offerta,22528,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.297.897,74",2012-12-11,ARCHEO&RESTAURI SRL
+Offerta,22529,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.401.998,52",2012-12-11,Brigante Engineering
+Offerta,22530,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,C.I.E.S. COSTRUZIONI INDUSTRIALIZZATE EDILI STRADALI
+Offerta,22531,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.461.462,94",2012-12-11,CO.GE.P.AR. COSTRUZIONI GENERALI SAS
+Offerta,22532,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,CON.TEC.
+Offerta,22533,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,Consorzio Conpat
+Offerta,22534,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,"CONSORZIO NAZIONALE COOPERATIVE DI PRODUZIONE E LAVORO ""CIRO MENOTTI"" SCPA"
+Offerta,22535,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.424.451,14",2012-12-11,Consorzio Stabile Grandi Opere S.c.a.r.l.
+Offerta,22536,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.662.803,01",2012-12-11,COSTRUZIONI MERIDIONALI srl
+Offerta,22537,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.282.555,12",2012-12-11,DELL'ACQUA COSTRUZIONI GENERALI s.r.l.
+Offerta,22538,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.489.854,03",2012-12-11,EDIL CO SRL
+Offerta,22539,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.621.271,84",2012-12-11,ERAGON CONSORZIO STABILE
+Offerta,22540,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.330.132,24",2012-12-11,ES SRL PROGETTI E SISTEMI
+Offerta,22541,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,Forte Costruzioni e Restauri
+Offerta,22542,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.393.225,33",2012-12-11,GI.VI. COSTRUZIONI S.R.L.
+Offerta,22543,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.325.647,25",2012-12-11,GRUPPO GE.DI. s.r.l.
+Offerta,22544,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.319.022,89",2012-12-11,HERA RESTAURI S.R.L.
+Offerta,22545,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.505.891,34",2012-12-11,I.C.G. SRL UNIPERSONALE
+Offerta,22546,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,IMPRESA CENTORE GIUSEPPE
+Offerta,22547,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,IMPRESA INGG MARIO E PAOLO COSENZA SRL
+Offerta,22548,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.330.149,37",2012-12-11,IMPRESA SICOBE
+Offerta,22549,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.409.811,04",2012-12-11,INGEGNER ANTONIO POMPA S.R.L.
+Offerta,22550,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,Lande
+Offerta,22551,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.413.415,66",2012-12-11,LANGELLA s.r.l.
+Offerta,22552,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.370.027,71",2012-12-11,Lucci Salvatore Impresa di Costruzioni
+Offerta,22553,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.452.883,18",2012-12-11,M. & A. Costruzioni S.r.l.
+Offerta,22554,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.435.492,88",2012-12-11,NEI RESTAURO E COSTRUZIONI SRL
+Offerta,22555,2014-03-20,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.339.547,43",2012-12-11,Perillo Costruzioni Generali
+Offerta,22558,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.356.324,28",2012-12-11,RCR Edilizia
+Offerta,22559,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,RE.CO. Restauro e Conservazione con socio unico
+Offerta,22560,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.306.262,72",2012-12-11,Research Consorzio
+Offerta,22562,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.329.995,8",2012-12-11,S.A.V.A. & C. Società Anonima Vendita Appartamenti e Costruzioni S.r.l.
+Offerta,22563,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.342.247,32",2012-12-11,SAMOA RESTAURI SRL
+Offerta,22564,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.361.309,48",2012-12-11,SO.GE.CO. Srl
+Offerta,22565,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.330.156,27",2012-12-11,Sogem
+Offerta,22566,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,VALORI S.C.A R.L. - CONSORZIO STABILE
+Offerta,22567,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.349.138,22",2012-12-11,VELLA SALVATORE
+Offerta,22569,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,VINCENZO MODUGNO SRL
+Offerta,22570,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,"1.261.505,57",2012-12-11,VITALE COSTRUZIONI S.P.A.
+Offerta,28627,2013-06-03,"Realizzazione del Convegno ""Moenia e Urbs""",ZB20A0B176,"15.360,0",2013-05-30,Andromeda s.r.l.
+Offerta,28628,,"Realizzazione del Convegno ""Moenia e Urbs""",ZB20A0B176,"17.295,0",2013-05-30,EFFE ERRE Congressi
+Offerta,28981,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"843.065,31",2012-09-04,Ronga
+Offerta,28982,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"870.805,01",2012-09-04,DRD COSTRUZIONI S.R.L.
+Offerta,28984,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"733.592,73",2012-09-05,Iota Restauro
+Offerta,28985,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"819.263,04",2012-09-05,Arkaikos Restauri
+Offerta,28986,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"706.330,42",2012-09-05,Lucci Salvatore Impresa di Costruzioni
+Offerta,28987,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"663.409,23",2012-09-05,DELL'ACQUA COSTRUZIONI GENERALI s.r.l.
+Offerta,28988,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"871.505,43",2012-09-05,Valentino Giuseppe - Società di costruzioni e restauro monumenti
+Offerta,28989,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"782.402,18",2012-09-06,Tecnorestauri
+Offerta,28990,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"839.922,6",2012-09-06,TECNORES
+Offerta,28991,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"899.108,42",2012-09-06,Lande
+Offerta,28992,2013-06-27,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"550.307,86",2012-09-06,Perillo Costruzioni Generali
+Offerta,28993,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"889.324,89",2012-09-06,Lattanzi
+Offerta,28994,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"796.987,47",2012-09-06,IMPRESA INGG MARIO E PAOLO COSENZA SRL
+Offerta,28996,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"814.611,31",2012-09-06,Flovares
+Offerta,28997,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"739.344,72",2012-09-06,Ar.fe.ga.
+Offerta,28998,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"886.543,04",2012-09-06,COBAR - Costruzioni Barozzi
+Offerta,29000,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"717.403,52",2012-09-06,COOPERATIVA ARCHEOLOGIA
+Offerta,29001,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"839.198,6",2012-09-06,Vitiello s.r.l.
+Offerta,29002,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"630.486,87",2012-09-06,EDIL.RE.CO.S
+Offerta,29003,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"817.614,46",2012-09-07,Edil Atellana
+Offerta,29004,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"823.132,59",2012-09-07,CO.GE.P.AR. COSTRUZIONI GENERALI SAS
+Offerta,29005,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"745.096,39",2012-09-07,I.CO.RES. S.r.l.
+Offerta,29006,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"616.198,2",2012-09-07,SAMOA RESTAURI SRL
+Offerta,29007,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"685.703,3",2012-09-07,INGEGNER ANTONIO POMPA S.R.L.
+Offerta,29008,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"901.656,81",2012-09-07,Edilerica
+Offerta,29009,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"662.484,47",2012-09-07,Research Consorzio
+Offerta,29010,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"796.495,73",2012-09-07,C.I.E.S. COSTRUZIONI INDUSTRIALIZZATE EDILI STRADALI
+Offerta,29013,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"787.592,01",2012-09-07,Izzo Mario Costruzioni s.r.l.
+Offerta,29014,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"927.654,21",2012-09-07,Edil COOP
+Offerta,29016,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"789.694,4",2012-09-07,Pa.Co. Pacifico Costruzioni
+Offerta,29030,,Lavori di consolidamento e restauro delle strutture della Casa di Sirico,4106680B88,"784.258,93",2012-09-07,GEO.GA. COSTRUZIONI Sr.l.
+Offerta,29828,,Lavori di messa in sicurezza previo assetto idrogeologico dei terreni demaniali a confine area di scavo (III – IX),46223167d3,,2012-12-11,Consorzio Artek
+Offerta,30341,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"672.152,61",2012-09-04,Ronga
+Offerta,32334,2013-11-13,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"585.381,36",2012-09-04,Forte Costruzioni e Restauri
+Offerta,33274,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"675.727,07",2012-09-04,DRD COSTRUZIONI S.R.L.
+Offerta,33275,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"630.973,93",2012-09-05,Arkaikos Restauri
+Offerta,33277,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"622.974,53",2012-09-05,Lucci Salvatore Impresa di Costruzioni
+Offerta,33278,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"564.793,49",2012-09-05,Credendino Domenico S.r.l.
+Offerta,33295,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"604.151,32",2012-09-05,Iota Restauro
+Offerta,33296,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"667.477,6",2012-09-05,DELL'ACQUA COSTRUZIONI GENERALI s.r.l.
+Offerta,33297,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"712.328,83",2012-09-05,Valentino Giuseppe - Società di costruzioni e restauro monumenti
+Offerta,33298,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"671.286,63",2012-09-06,Tecnorestauri
+Offerta,33299,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"653.821,72",2012-09-06,TECNORES
+Offerta,33300,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"748.427,27",2012-09-06,Lande
+Offerta,33301,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"580.859,4",2012-09-06,COOPERATIVA ARCHEOLOGIA
+Offerta,33302,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"635.122,65",2012-09-06,Perillo Costruzioni Generali
+Offerta,33303,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"732.884,61",2012-09-06,Lattanzi
+Offerta,33305,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"677.236,13",2012-09-06,ARCHEO&RESTAURI SRL
+Offerta,33306,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"633.014,37",2012-09-06,Flovares
+Offerta,33308,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"642.095,59",2012-09-06,Ar.fe.ga.
+Offerta,33309,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"722.880,43",2012-09-06,COBAR - Costruzioni Barozzi
+Offerta,33310,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"698.992,27",2012-09-06,Vitiello s.r.l.
+Offerta,33311,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"583.937,29",2012-09-06,IMPRESA INGG MARIO E PAOLO COSENZA SRL
+Offerta,33312,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"560.400,48",2012-09-06,EDIL.RE.CO.S
+Offerta,33313,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"697.799,56",2012-09-07,Edil Atellana
+Offerta,33315,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"722.486,8",2012-09-07,CO.GE.P.AR. COSTRUZIONI GENERALI SAS
+Offerta,33316,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"614.015,23",2012-09-07,SAMOA RESTAURI SRL
+Offerta,33317,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"625.416,21",2012-09-07,INGEGNER ANTONIO POMPA S.R.L.
+Offerta,33318,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"730.686,65",2012-09-07,Edilerica
+Offerta,33319,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"678.317,86",2012-09-07,Pa.Co. Pacifico Costruzioni
+Offerta,33320,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"600.959,26",2012-09-07,GEO.GA. COSTRUZIONI Sr.l.
+Offerta,33321,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"759.411,28",2012-09-07,Edil COOP
+Offerta,33322,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"600.220,3",2012-09-07,TEKNO DOMUS RESTAURI S.R.L.
+Offerta,33323,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"568.771,58",2012-09-07,Consorzio Conpat
+Offerta,33324,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"662.129,63",2012-09-07,C.I.E.S. COSTRUZIONI INDUSTRIALIZZATE EDILI STRADALI
+Offerta,33326,,Lavori di consolidamento e restauro delle strutture della Casa del Marinaio,41068675DB,"636.177,38",2012-09-07,Paribello Francesco
+Offerta,42963,2013-12-12,PON Sicurezza per lo sviluppo - Obiettivo Convergenza 2007-2013 - Una nuova sicurezza per il parco archeologico di Pompei - STRALCIO,5337430A90,,2013-10-07,Consorzio Nazionale Sicurezza
+Offerta,44637,,Acquisto attrezzature hardware e software,5511366B17,"99.000,0",2014-01-15,Ormu di Giovanni Montella & C. s.r.l.
+Offerta,48042,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"1.991.248,8",2013-09-18,Forte Costruzioni e Restauri
+Offerta,48058,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"1.993.865,56",2013-09-18,SAMOA RESTAURI SRL
+Offerta,48093,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"2.391.071,01",2013-09-16,Ccc Consorzio Cooperative Costruzioni
+Offerta,48106,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"2.410.356,08",2013-09-18,COBAR - Costruzioni Barozzi
+Offerta,48107,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"2.420.409,09",2013-09-17,Lucci Salvatore Impresa di Costruzioni
+Offerta,48134,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"2.436.236,75",2013-09-17,Lattanzi
+Offerta,48138,,Lavori di messa in sicurezza Regio VII in Pompei Scavi.,5169367897,"2.502.514,99",2013-09-18,INGEGNER ANTONIO POMPA S.R.L.
+Offerta,48276,2014-06-16,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.113.583,7",2013-09-06,Perillo Costruzioni Generali
+Offerta,48292,,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.166.738,94",2013-09-06,Forte Costruzioni e Restauri
+Offerta,48294,,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.239.014,63",2013-09-02,Lattanzi
+Offerta,48296,,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.257.867,18",2013-09-06,COBAR - Costruzioni Barozzi
+Offerta,48298,,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.272.889,68",2013-09-06,Research Consorzio
+Offerta,48300,,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.280.726,14",2013-09-06,Lucci Salvatore Impresa di Costruzioni
+Offerta,48302,,Lavori di messa in sicurezza Regio VI – Pompei Scavi – Intervento n°VI,51694805D8,"2.284.894,73",2013-09-05,Ccc Consorzio Cooperative Costruzioni
+Offerta,49347,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,"571.677,91",2013-09-09,Ambra Restauri s.r.l.
+Offerta,49356,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-06,AR Arte e Restauro
+Offerta,49359,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-07,ATRAMENTUM
+Offerta,49378,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-06,C.B.C. CONSERVAZIONE BENI CULTURALI
+Offerta,49384,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-09,C.S.R. Restauro beni culturali
+Offerta,49385,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,"588.542,92",2013-09-09,Ccc Consorzio Cooperative Costruzioni
+Offerta,49541,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-08,Corsale Maria Pia
+Offerta,49546,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-09,L'Officina
+Offerta,49549,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-06,Lattanzi
+Offerta,49559,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-06,Lucci Salvatore Impresa di Costruzioni
+Offerta,49567,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-06,R.O.M.A.
+Offerta,49581,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-09,Research Consorzio
+Offerta,49582,,Lavori per la messa in sicurezza degli apparati decorativi della Casa di Paquio Proculo Regio I ins. 7,520699015,,2013-09-09,Scalesse Roberto
+Offerta,49933,2014-04-01,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"308.441,41",2013-07-29,C.B.C. CONSERVAZIONE BENI CULTURALI
+Offerta,49935,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"310.632,86",2013-07-26,AR Arte e Restauro
+Offerta,49937,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"319.206,57",2013-07-29,ASTREA SRL
+Offerta,49939,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"307.637,64",2013-07-29,ATRAMENTUM
+Offerta,49941,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"316.288,47",2013-07-29,C.S.R. Restauro beni culturali
+Offerta,49946,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"306.634,54",2013-07-29,COOPERATIVA ARCHEOLOGIA
+Offerta,49950,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"312.144,69",2013-07-30,Estia
+Offerta,49952,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"309.573,65",2013-07-29,L'Officina
+Offerta,49954,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"294.244,05",2013-07-30,Lattanzi
+Offerta,49956,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"307.376,04",2013-07-27,Lucci Salvatore Impresa di Costruzioni
+Offerta,49958,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"307.760,59",2013-07-29,R.O.M.A.
+Offerta,49960,,Restauro degli apparati decorativi pittorici e pavimentali della Casa di D.Octavius Quartio detta anche Loreio Tiburtino,5177088C28,"313.192,72",2013-07-29,Studio C.R.C.
+Offerta,55992,2014-06-17,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Geomed Srl Geoarcheologia e Geologia Ambientale
+Offerta,55994,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Georicerche
+Offerta,55996,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Geoter
+Offerta,55998,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,S.in.ge.a.
+Offerta,56000,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Sondedile
+Offerta,56002,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Tecno in
+Offerta,56004,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Tethys
+Offerta,56007,,"Indagini geognostiche e studi per la mitigazione del rischio idrogeologico dei pianori non scavati e dei fonti di scavo delle Regiones I, IV e V e del banco roccioso del fronte sud della Regio VIII",5472771180,,2014-02-11,Trivel sondaggi
