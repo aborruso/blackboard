@@ -15,7 +15,7 @@
 		},
 	"resources": [{
 		"name":"gare_contratti",
-		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gare_contratti.csv",
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gare_contratti/gare_contratti.csv",
 		"format": "csv",
       "mediatype": "text/csv",
 		"schema": {
