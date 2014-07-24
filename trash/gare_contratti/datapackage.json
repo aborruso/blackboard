@@ -18,7 +18,7 @@
 		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gare_contratti/gare_contratti.csv",
 		"format": "csv",
       "mediatype": "text/csv",
-		"schema": {
+		"schema": {		
 			"fields": [
 				{
 				"name": "ID bando",
@@ -121,6 +121,31 @@
 				"description": ""
 				},
 				{
+				"name": "Aliquota forfettaria",
+				"type": "number",
+				"description": ""
+				},
+				{
+				"name": "Importo lavori",
+				"type": "number",
+				"description": "importi destinati a lavori di costruzione e restauro (EUR)"
+				},
+				{
+				"name": "Importo servizi",
+				"type": "number",
+				"description": "importi destinati a servizi (EUR)"
+				},
+				{
+				"name": "Importo forniture",
+				"type": "number",
+				"description": "importi destinati a acquisti (EUR)"
+				},
+				{
+				"name": "Importo totale",
+				"type": "number",
+				"description": "somma dei campi: importo lavori, importo servizi, importo forniture, oneri per la sicurezza, iva e aliquota forfettaria (EUR)"
+				},
+				{
 				"name": "Dettaglio localizzazione",
 				"type": "string",
 				"description": "luogo dove interviene il progetto"
@@ -195,6 +220,7 @@
 				"type": "number",
 				"description": "longitudine dell'artefatto oggetto dell'intervento. Per interventi immateriali è riferita alla sede del Grande Progetto Pompei"
 				}
-		]}
+		]
+		}
 	}]
 }   
