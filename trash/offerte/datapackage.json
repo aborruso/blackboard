@@ -15,7 +15,7 @@
   "resources": [
     {
        "name":"contrattieOfferte",
-		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/contrattieOfferte.csv",
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/offerte/contrattieOfferte.csv",
 		"format": "csv",
       "mediatype": "text/csv",
       "schema": {
