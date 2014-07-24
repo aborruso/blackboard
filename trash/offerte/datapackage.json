@@ -1,0 +1,69 @@
+{
+  "name": "contratti e offerte",
+  "title": "Grande Progetto Pompei: Offerte",
+  "description":"Offerte relative agli interventi appaltati dalla Soprintendenza Speciale per i Beni Archeologici di Pompei, Ercolano e Stabia nell'ambito del Grande Progetto Pompei.",
+  "sources": [{
+  "name": "Ministero dei beni e delle attività culturali e del turismo.",
+  "web": "http://www.beniculturali.it/mibac/export/MiBAC/index.html"
+  }],
+  "license": 
+		{
+		"url": "http://creativecommons.org/licenses/by/4.0/",
+		"name": "Creative Commons 4.0 Attribuzione",
+		"version": "1.0"
+		},	
+  "resources": [
+    {
+       "name":"contrattieOfferte",
+		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/contrattieOfferte.csv",
+		"format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "index": 0,
+			"description": "codice identitificativo dell'offerta",
+			"type": "integer",
+			"name": "Id-offerta"			
+          },
+          {
+            "index": 1,
+			"description": "Codice identificativo gara",
+            "type": "string",
+            "name": "CIG"
+          },
+          {
+            "index": 2,
+			"description": "Oggetto dell'offerta",
+            "type": "string",
+            "name": "oggetto-offerta"
+          },
+          {
+            "index": 3,
+			"description": "Data del contratto-offerta",
+            "type": "datetime",
+            "name": "data-contratto-offerta"
+          },
+          {
+            "index": 4,
+            "description": "Importo dell'offerta",
+            "type": "number",
+            "name": "importo-offerta"
+          },
+          {
+            "index": 5,
+			"description": "Nome offerente",
+            "type": "string",
+            "name": "offerente"
+          },
+          {
+            "index": 6,
+			"description": "Data ricezione dell'offerta",
+            "type": "datetime",
+            "name": "data-ricezione-offerta"
+          }
+        ]
+      }
+    }
+  ]
+}
