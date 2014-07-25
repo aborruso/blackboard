@@ -1,5 +1,5 @@
 {
-	"name": "Gare d'appalto e contratti",
+	"name": "gpp_appalti",
 	"title": "Grande Progetto Pompei: gare d'appalto e contratti",
 	"description":"Interventi appaltati dalla Soprintendenza Speciale per i Beni Archeologici di Pompei, Ercolano e Stabia nell'ambito del Grande Progetto Pompei. Il flusso di lavoro consiste nell'individuare progetti di intervento, su cui vengono appostate risorse; pubblicare un bando di gara relativo a ciascun progetto; e firmare un contratto con il vincitore della gara. In ogni momento del tempo ci possono essere progetti che non hanno ancora dato luogo a bandi, e bandi in corso di assegnazione che non hanno ancora dato luogo a contratti. <br> Il Grande Progetto Pompei è un progetto di riqualificazione e valorizzazione del parco archeologico di Pompei. Si basa sull'Intesa Interistituzionale Legalità e Sicurezza del 20 Gennaio 2012 tra il Ministro della Coesione, il Ministro dei Beni e delle Attività Culturali, il Ministro dell’Interno, il Ministro dell’Istruzione, dell’Università e della Ricerca ed il Presidente dell'Autorità di Vigilanza sui contratti pubblici per la sicurezza degli appalti, con la firma del Protocollo di Legalità del 5 aprile 2012. Informazioni: http://www.pompeiisites.org/Sezione.jsp?titolo=Il+Progetto&idSezione=357",
 	"sources": [{
@@ -14,11 +14,11 @@
 		"version": "1.0"
 		},
 	"resources": [{
-		"name":"gare_contratti",
-		"url":"https://raw.githubusercontent.com/aborruso/blackboard/gh-pages/trash/gare_contratti/gare_contratti.csv",
+		"name":"data",
+		"url":"https://urldainserire/data.csv",
 		"format": "csv",
       "mediatype": "text/csv",
-		"schema": {		
+		"schema": {
 			"fields": [
 				{
 				"name": "ID bando",
@@ -57,6 +57,11 @@
 				},
 				{
 				"name": "Protocollo determina",
+				"type": "string",
+				"description": ""
+				},
+				{
+				"name": "Num perizia",
 				"type": "string",
 				"description": ""
 				},
@@ -111,7 +116,7 @@
 				"description": "parte della base d'asta riservata per la sicurezza (EUR)"
 				},
 				{
-				"name": "IVA",
+				"name": "Iva",
 				"type": "number",
 				"description": "IVA sulla base d'asta (EUR)"
 				},
@@ -149,6 +154,11 @@
 				"name": "Dettaglio localizzazione",
 				"type": "string",
 				"description": "luogo dove interviene il progetto"
+				},
+				{
+				"name": "Importo forniture",
+				"type": "number",
+				"description": "importi destinati a acquisti (EUR)"
 				},
 				{
 				"name": "ID contratto",
@@ -191,6 +201,11 @@
 				"description": "importo del contratto (imponibile - EUR)"
 				},
 				{
+				"name": "Iva contratto",
+				"type": "number",
+				"description": "importo dell'iva sul contratto (EUR)"
+				},
+				{
 				"name": "Data inizio validita",
 				"type": "date",
 				"description": "data di inizio validità del contratto"
@@ -220,7 +235,6 @@
 				"type": "number",
 				"description": "longitudine dell'artefatto oggetto dell'intervento. Per interventi immateriali è riferita alla sede del Grande Progetto Pompei"
 				}
-		]
-		}
+		]}
 	}]
 }   
