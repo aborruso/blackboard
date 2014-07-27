@@ -59,6 +59,7 @@ function initmap() {
 	var southWest = L.latLng(38.13674,14.96407),
 	northEast = L.latLng(38.13973,14.96697),
 	bounds = L.latLngBounds(southWest, northEast);
+	map.fitBounds(bounds);
 
 	map.addLayer(osm); 
 	
