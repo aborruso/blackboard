@@ -16,20 +16,20 @@ function initmap() {
 
 	// create the tile layer with correct attribution
 	var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-	var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+	var osmAttrib='Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
 	var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 19, attribution: osmAttrib});		
 
 //piazza marconi
 	var marker = L.marker([38.13879, 14.96697]).addTo(map);
-	marker.bindPopup("<b>piazza Marconi</b><br>raduno e punto di partenza delle visite guidate<br>Palazzo del Turismo <br>Servizio Turistico di Messina - Unità Operativa di Patti e Tindari <br>MACC - Museo di arte ceramica contemporanea 'Umberto Caleca' <br>Collezione 'Artisti nel Piatto' <br>Fondo Librario ed Archivistico 'Nino Falcone'<br>Monumento ai caduti").openPopup();
+	marker.bindPopup("<b>piazza Marconi</b><br>raduno e punto di partenza delle visite guidate<br>Palazzo del Turismo <br>Servizio Turistico di Messina - Unit&agrave; Operativa di Patti e Tindari <br>MACC - Museo di arte ceramica contemporanea 'Umberto Caleca' <br>Collezione 'Artisti nel Piatto' <br>Fondo Librario ed Archivistico 'Nino Falcone'<br>Monumento ai caduti").openPopup();
 
-//caffè galante 
+//caff&egrave; galante 
 	var marker = L.marker([38.13812, 14.96636]).addTo(map);
-	marker.bindPopup("<a href='http://caffegalante.wordpress.com' target='_blank'><b>Caffè Galante</b></a><br>caffè storico in stile Liberty (1929)<br>luogo di ritrovo degli intellettuali dell'epoca, tra cui il premio Nobel Salvatore Quasimodo<br>(arredi originali dell'epoca)").openPopup();
+	marker.bindPopup("<a href='http://caffegalante.wordpress.com' target='_blank'><b>Caff&egrave; Galante</b></a><br>caff&egrave; storico in stile Liberty (1929)<br>luogo di ritrovo degli intellettuali dell'epoca, tra cui il premio Nobel Salvatore Quasimodo<br>(arredi originali dell'epoca)").openPopup();
 	
 //san nicola
 	var marker = L.marker([38.13769, 14.96572]).addTo(map);
-	marker.bindPopup("<b>San Nicola</b><br>Chiesa di San Nicolò di Bari<br>Fontana del Calice<br>Chiesa di Santa Maria del Tindari<br>ex piazza Mercato").openPopup();
+	marker.bindPopup("<b>San Nicola</b><br>Chiesa di San Nicol&ograve; di Bari<br>Fontana del Calice<br>Chiesa di Santa Maria del Tindari<br>ex piazza Mercato").openPopup();
 
 //vecchio carcere
 	var marker = L.marker([38.13703, 14.96573]).addTo(map);
