@@ -33,7 +33,7 @@ function initmap() {
 
 //vecchio carcere
 	var marker = L.marker([38.13703, 14.96573]).addTo(map);
-	marker.bindPopup("<b>Convento di Santa Maria di Gesù (1478)</b>").openPopup();
+	marker.bindPopup("<b>Convento di Santa Maria di Ges&ugrave; (1478)</b>").openPopup();
 
 //municipio
 	var marker = L.marker([38.13973, 14.96407]).addTo(map);
@@ -49,7 +49,7 @@ function initmap() {
 
 //villa comunale
 	var marker = L.marker([38.13674, 14.96433]).addTo(map);
-	marker.bindPopup("<b>Villa Umberto I° (1875)</b>").openPopup();
+	marker.bindPopup("<b>Villa Umberto I&deg; (1875)</b>").openPopup();
 
 
 	
