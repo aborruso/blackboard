@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-	<meta property="og:title" content="PAI Aggiornamenti - Geomorfologia Rischio Frana" />
+	<meta property="og:title" content="Rischio Frana - Regione Siciliana" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://blog.spaziogis.it/?p=6377" />
-	<meta property="og:image" content="http://blog.spaziogis.it/wp-content/uploads/2014/09/PANO_20140825_104228.jpg" />    
+	<meta property="og:url" content="....." />
+	<meta property="og:image" content="....." />    
 	<meta charset="utf-8">
 	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 	<meta charset="UTF-8">
-	<title>PAI Aggiornamenti - Geomorfologia Rischio Frana</title>
+	<title>Rischio Frana - Regione Siciliana</title>
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"	/>
 	<style type="text/css">
 	html, body { width: 100%; height: 100%; margin: 0; }
@@ -27,10 +27,12 @@
 
 
 	<script>
-	var map = L.map('map')
 	var southWest = L.latLng(36.61535,11.93834),
 	northEast = L.latLng(38.57218,15.78952),
 	bounds = L.latLngBounds(southWest, northEast);
+
+	var map = L.map('map',{maxBounds: bounds,minZoom:4,maxZoom:15})
+
 
 	var layer = L.tileLayer('http://{s}.acetate.geoiq.com/tiles/acetate/{z}/{x}/{y}.png',{
 		attribution: 'Acetate tileset from GeoIQ',
@@ -63,6 +65,9 @@
 	var hash = new L.Hash(map);
 
 	var miniMap = new L.Control.MiniMap(layermini, { toggleDisplay: true }).addTo(map);
+
+
+
 	</script>
 </body>
 </html>
