@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>RevealJS : c:\Users\andybandy\aborruso@gmail.com\lavoro\ondata\idee\slideHtmlRevealJS\readme.md</title>
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/white.css" id="theme">
+        
+       
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/darkula.css">
+
+        
+
+        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+        <script>
+          document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+        </script>
+
+        <style type="text/css">
+            @page {    
+              margin: 0;
+              size: auto; 
+            }
+        </style>
+
+        <script>
+         if(window.location.search.match( /print-pdf-now/gi )) {
+           window.print();
+         }
+      </script>
+
+    </head>
+    <body>
+
+        <div class="reveal">
+            <div class="slides"><section  data-markdown><script type="text/template">
+# Slide in HTML
+
+### Ovvero come inserire infografiche interattive in una presentazione
+
+<small> by [aborruso](https://twitter.com/aborruso)</small>
+</script></section><section  data-markdown><script type="text/template">
+## Ciao mondo
+
+[**reveal.js**](https://revealjs.com/) è la libreria javascript che consente di creare presentazioni HTML interattive. Questa è un esempio.
+</script></section><section  data-markdown><script type="text/template">
+## Markdown e HTML
+
+Le slide si scrivono in Markdown e HTML. 
+
+Quindi se scrivo `**ciao**` ottengo il grassetto (**ciao**).
+
+Ma l'ottengo anche con `<b>ciao</b>`, che mi da sempre <b>ciao</b>.
+</script></section><section  data-markdown><script type="text/template">
+## Separatori
+
+Le slide hanno due tipi di separatori:
+
+- `---` è il separatore standard;
+- `--` per separare slide in verticale.
+</script></section><section ><section data-markdown><script type="text/template">
+## Slide verticali
+
+Una (o più) slide può essere figlia di un'altra; per vederla scorrere verso il basso.
+
+Si crea inserendo `--` a fine slide.
+</script></section><section data-markdown><script type="text/template">
+## infografiche interattive
+
+Qui riduco la possibilità a quei casi in cui è possibile generare/ricavare un codice di _embedding_ dell'infografica interattiva.
+</script></section><section data-markdown><script type="text/template">
+### Mappa uMap
+
+Da [questa mappa](http://umap.openstreetmap.fr/it/map/carte-sans-nom_246174) è possibile ricavare il codice di embedding.
+
+```html
+<iframe width="100%" height="300px" frameBorder="0" allowfullscreen 
+src="http://umap.openstreetmap.fr/it/map/carte-sans-nom_246174?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/32.296/-4.373">
+</iframe>
+<p><a 
+href="http://umap.openstreetmap.fr/it/map/carte-sans-nom_246174">
+Visualizza a schermo intero
+</a></p>
+```
+</script></section><section data-markdown><script type="text/template">
+### Mappa uMap interattiva
+
+<iframe width="100%" height="300px" frameBorder="0" allowfullscreen 
+src="http://umap.openstreetmap.fr/it/map/carte-sans-nom_246174?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/32.296/-4.373">
+</iframe>
+<p><a 
+href="http://umap.openstreetmap.fr/it/map/carte-sans-nom_246174">
+Visualizza a schermo intero
+</a></p>
+</script></section><section data-markdown><script type="text/template">
+### Grafico datawrapper
+
+<iframe src="//datawrapper.dwcdn.net/UVhoZ/1/" scrolling="no" frameborder="0" allowtransparency="true" width="748" height="650"></iframe>
+</script></section></section><section  data-markdown><script type="text/template">
+## Note
+
+- l'_embedding_ alle volte è impossibile per ragioni di "sicurezza";
+- questi sono degli esempi di base. Per adattare per bene le slide agli obiettivi visuali è necessario studiare più a fondo come funziona revealjs;
+- c'è un _editor_ nel _cloud_ con cui creare slide basate su revaljs [https://slides.com/]();
+- queste le ho create con Visual Studio Code e una sua [estensione](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal).</script></section></div>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            function extend() {
+              var target = {};
+              for (var i = 0; i < arguments.length; i++) {
+                var source = arguments[i];
+                for (var key in source) {
+                  if (source.hasOwnProperty(key)) {
+                    target[key] = source[key];
+                  }
+                }
+              }
+              return target;
+            }
+            // Optional libraries used to extend on reveal.js
+            var deps = [
+              { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+              { src: 'plugin/math/math.js', async: true }
+            ];
+            // default options to init reveal.js
+            var defaultOptions = {
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
+              transition: 'default',
+              dependencies: deps
+            };
+            // options from URL query string
+            var queryOptions = Reveal.getQueryHash() || {};
+            var options = {
+  "notesSeparator": "note:",
+  "separator": "^[\r\n?|\n]---[\r\n?|\n]$",
+  "verticalSeparator": "^[\r\n?|\n]--[\r\n?|\n]$",
+  "theme": "white",
+  "highlightTheme": "darkula",
+  "controls": true,
+  "progress": true,
+  "slideNumber": false,
+  "history": true,
+  "keyboard": true,
+  "overview": true,
+  "center": true,
+  "touch": true,
+  "loop": false,
+  "rtl": false,
+  "shuffle": false,
+  "fragments": true,
+  "embedded": false,
+  "help": true,
+  "showNotes": false,
+  "autoSlide": 0,
+  "autoSlideStoppable": true,
+  "mouseWheel": false,
+  "hideAddressBar": true,
+  "previewLinks": false,
+  "transition": "default",
+  "transitionSpeed": "default",
+  "backgroundTransition": "default",
+  "viewDistance": 3,
+  "parallaxBackgroundImage": "",
+  "parallaxBackgroundSize": "",
+  "parallaxBackgroundHorizontal": null,
+  "parallaxBackgroundVertical": null,
+  "slideExplorerEnabled": true,
+  "browserPath": null,
+  "attributes": ""
+};
+            options = extend(defaultOptions, options, queryOptions);
+            Reveal.initialize(options);
+
+        </script>
+        
+    </body>
+</html>
