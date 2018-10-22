@@ -87,8 +87,8 @@ Visualizza a schermo intero
 ## Note
 
 - l'_embedding_ alle volte è impossibile per ragioni di "sicurezza";
-- questi sono degli esempi di base. Per adattare per bene le slide agli obiettivi visuali è necessario studiare più a fondo come funziona revealjs;
-- c'è un _editor_ nel _cloud_ con cui creare slide basate su revaljs [https://slides.com/]();
+- questi sono degli esempi di base. Per adattare per bene le slide agli obiettivi "visuali" è necessario studiare più a fondo _revealjs_;
+- c'è un _editor_ nel _cloud_ con cui creare slide basate su _revaljs_ [https://slides.com/](https://slides.com/);
 - queste le ho create con Visual Studio Code e una sua [estensione](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal).
 
 
