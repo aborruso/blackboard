@@ -31,7 +31,7 @@ jobs:
         cd ~/bin
         wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.398/quarto-1.4.398-linux-amd64.tar.gz
         tar -C ./ -xvzf quarto-1.4.398-linux-amd64.tar.gz
-        ln -s ~/opt/quarto-1.4.398/bin/quarto ~/bin/quarto
+        ln -s ./quarto-1.4.398/bin/quarto ~/bin/quarto
     - name: esegui lo script
       run: |-
         export PATH=$PATH:~/bin
