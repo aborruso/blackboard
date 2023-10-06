@@ -45,15 +45,12 @@ mlrgo --ixtab --otsv --ips "\t" clean-whitespace then filter -x 'is_null($image)
 # crea header slide
 cat "$folder"/slide/risorse/header_02.txt >"$folder"/slide/slide_02.qmd
 
-#!/bin/bash
-
 # Imposta il separatore di campo come TAB
 IFS=$'\t'
 
-# Leggi il file TSV linea per linea
+# Leggi il file TSV linea per linea e crea le slide
 while read -r -a line; do
-  # Verifica che ci siano almeno due colonne nella riga
-  echo "${line[0]}"
+
 cat << EOF >> "$folder"/slide/slide_02.qmd
 ## {.r-text-fit}
 
@@ -74,13 +71,18 @@ ${line[1]}
 EOF
 done < "$folder"/output/lista_full.tsv
 
+# rinominare il file slide
 mv "$folder"/slide/slide_02.qmd "$folder"/slide/slide.qmd
 
+# cancella cartella slide_files se esiste
 [ -d "$folder"/../output/slide_files ] && rm -r "$folder"/../output/slide_files
 
+# converti qmd in html
 quarto render "$folder"/slide/slide.qmd
 
+# sposta il file html e la cartella slide_files nella cartella output
 mv "$folder"/slide/slide.html "$folder"/../output/index.html
 mv "$folder"/slide/slide_files "$folder"/../output/
 
+# rinomina il titolo della pagina
 sed -i 's/<title>slide<\/title>/<title>Planetek Italia - News<\/title>/' "$folder"/../output/index.html
