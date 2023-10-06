@@ -3,3 +3,4 @@
 - mlr
 - mlrgo
 - yq/xq
+- quarto
