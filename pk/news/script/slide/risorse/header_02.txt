@@ -1,7 +1,7 @@
 ---
 format:
   revealjs:
-#    title: "Planetek Italia - News"
+    pagetitle: "Planetek Italia - News"
     theme: [dark, "risorse/custom.scss"]
 #    center-title-slide: true
     footer: "Planetek Italia | https://planetek.it"

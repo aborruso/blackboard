@@ -83,6 +83,3 @@ quarto render "$folder"/slide/slide.qmd
 # sposta il file html e la cartella slide_files nella cartella output
 mv "$folder"/slide/slide.html "$folder"/../output/index.html
 mv "$folder"/slide/slide_files "$folder"/../output/
-
-# rinomina il titolo della pagina
-sed -i 's/<title>slide<\/title>/<title>Planetek Italia - News<\/title>/' "$folder"/../output/index.html
