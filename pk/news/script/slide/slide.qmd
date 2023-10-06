@@ -23,7 +23,7 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/wlf6-banner-1080.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/wlf6-banner-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/11/world_landslide_forum_2023)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -39,7 +39,7 @@ Planetek Italia partecipa al 6° World Landslide Forum (Forum Mondiale sulle Fra
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/OMC-2023-PK.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/OMC-2023-PK.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/10/omc2023_med_energy_conference_exhibition)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -55,7 +55,7 @@ Planetek Italia partecipa all'evento OMC 2023 - Med Energy Conference & Exhibiti
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/Rheticus-Safeway-Milano-Webinar-1080.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/Rheticus-Safeway-Milano-Webinar-1080.jpg)](https://www.planetek.it/formazione/webinar/sicurezza_dei_ponti_le_linee_guida_mims_e_il_ruolo_del_monitoraggio_satellitare)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -71,7 +71,7 @@ Planetek Italia partecipa all'evento OMC 2023 - Med Energy Conference & Exhibiti
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/IAC-2023-Baku-banner.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/IAC-2023-Baku-banner.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/10/iac_2023_international_astronautical_congress)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -87,7 +87,7 @@ Planetek Italia partecipa allo IAC - International Astronautical Congress 2023 c
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/Saudi-Green-Initiative-2.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/Saudi-Green-Initiative-2.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/09/planetek_italia_si_aggiudica_un_contratto_per_monitorare_la_riforestazione_in_arabia_saudita)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -103,7 +103,7 @@ Planetek Italia è orgogliosa di annunciare il recente contratto siglato con l'A
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/Wemakepuglia-podcast-intelligenza-satellitare-1.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/Wemakepuglia-podcast-intelligenza-satellitare-1.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/09/podcast_intelligenza_satellitare_spacedge)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -119,7 +119,7 @@ Nell'Episodio 9 del podcast "We Make Puglia, il futuro è qui" Vincenzo Barbieri
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/PLANETEK-Relazione-Impatto-2022-ITA-social.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/PLANETEK-Relazione-Impatto-2022-ITA-social.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/09/relazione_di_impatto_2022)
 :::
 
 ::: {.column width="40%" .r-fit-text}
@@ -135,7 +135,7 @@ Relazione di Impatto 2022. Da Aprile 2021, Planetek Italia ha adottato lo status
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](https://www.planetek.it/sites/default/files/social-banners/Planetek-GIS3W-agreement-1280.jpg)
+[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-GIS3W-agreement-1280.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/07/planetek_e_gis3w_partnership_strategica_nel_settore_della_geoinformazione)
 :::
 
 ::: {.column width="40%" .r-fit-text}

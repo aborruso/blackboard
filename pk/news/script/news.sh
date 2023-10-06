@@ -57,7 +57,7 @@ cat << EOF >> "$folder"/slide/slide_02.qmd
 :::: {.columns}
 
 ::: {.column width="60%"}
-![](${line[2]})
+[![](${line[2]})](${line[3]})
 :::
 
 ::: {.column width="40%" .r-fit-text}
