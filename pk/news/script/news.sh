@@ -9,6 +9,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p $folder/tmp
 mkdir -p $folder/output
+mkdir -p $folder/../output
 
 # scarica le ultime notizie
 feed="https://www.planetek.it/rss/feed/planetek.xml"
@@ -74,3 +75,10 @@ EOF
 done < "$folder"/output/lista_full.tsv
 
 mv "$folder"/slide/slide_02.qmd "$folder"/slide/slide.qmd
+
+[ -d "$folder"/../output/slide_files ] && rm -r "$folder"/../output/slide_files
+
+quarto render "$folder"/slide/slide.qmd
+
+mv "$folder"/slide/slide.html "$folder"/../output/index.html
+mv "$folder"/slide/slide_files "$folder"/../output/

@@ -1,10 +1,11 @@
 ---
 format:
   revealjs:
+    title: "Planetek Italia - News"
     theme: [dark, "risorse/custom.scss"]
 #    center-title-slide: true
     footer: "Planetek Italia | https://planetek.it"
-    auto-slide: 5000
+    auto-slide: 30000
     logo: risorse/logo.png
     loop: true
     background-transition: fade
@@ -14,6 +15,6 @@ format:
     controls: false
     slide-number: false
     menu: false
-    embed-resources: true
+#    embed-resources: true
 ---
 
