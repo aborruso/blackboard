@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+h2 {
+  color: #fff; /* Colore del testo bianco per un buon contrasto */
+  background-color: rgba(0, 63, 95, 0.8); /* Sfondo semitrasparente per migliorare la leggibilità */
+  padding: 10px; /* Aggiungi spazio intorno al testo per un migliore respiro */
+  border: 2px solid #be2e1a; /* Aggiungi una cornice bianca */
+  border-radius: 5px; /* Angoli curvi con un raggio di 5px */
+}
+
+.reveal .slide-logo {
+  max-height: 3.2rem !important;
+  background-color: rgba(255, 255, 255, 1); /* Sfondo semitrasparente per migliorare la leggibilità */
+  padding: 4px;
+  border: 1px solid #d1d1d1;
+  border-radius: 4px;
+}
+
+// div.footer.footer-default {
+//   display: flex !important;
+//   justify-content: center;
+// }
+
+// div.footer.footer-default > p {
+//   background-color: rgba(255, 255, 255, 1); /* Sfondo semitrasparente per migliorare la leggibilità */
+//   padding: 4px 6px;
+//   border: 1px solid #d1d1d1;
+//   border-radius: 4px;
+//   color: rgba(0, 63, 95, 1);
+// }
+
+section.slide.level2 h2 {
+  display: none;
+}
+
