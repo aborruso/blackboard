@@ -82,3 +82,5 @@ quarto render "$folder"/slide/slide.qmd
 
 mv "$folder"/slide/slide.html "$folder"/../output/index.html
 mv "$folder"/slide/slide_files "$folder"/../output/
+
+sed -i 's/<title>slide<\/title>/<title>Planetek Italia - News<\/title>/' "$folder"/../output/index.html
