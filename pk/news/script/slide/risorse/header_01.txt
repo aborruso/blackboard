@@ -1,0 +1,18 @@
+---
+format:
+  revealjs:
+    theme: [dark, "risorse/custom.scss"]
+    center-title-slide: true
+    footer: "Planetek Italia | https://planetek.it"
+    auto-slide: 5000
+    logo: risorse/logo.png
+    loop: true
+    background-transition: fade
+    transition: fade
+    center: true
+    shuffle: true
+    controls: false
+    slide-number: false
+    menu: false
+---
+

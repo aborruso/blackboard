@@ -1,0 +1,147 @@
+---
+format:
+  revealjs:
+    theme: [dark, "risorse/custom.scss"]
+#    center-title-slide: true
+    footer: "Planetek Italia | https://planetek.it"
+    auto-slide: 5000
+    logo: risorse/logo.png
+    loop: true
+    background-transition: fade
+    transition: fade
+    center: true
+    shuffle: true
+    controls: false
+    slide-number: false
+    menu: false
+    embed-resources: true
+---
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/wlf6-banner-1080.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### World Landslide Forum 2023
+
+Planetek Italia partecipa al 6° World Landslide Forum (Forum Mondiale sulle Frane) "Scienza delle Frane per lo sviluppo sostenibile" che si svolge a Firenze presso il Palazzo dei Congressi dal 14 al 17 novembre 2023. L'evento è organizzato congiuntamente dall'International Consortium on Landslides (Kyoto, Giappone), dall'International Programme on Landslides (IPL) e dalla Cattedra UNESCO sulla Prevenzione e Gestione Sostenibile dei Rischi Geoidrologici dell'Università di Firenze.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/OMC-2023-PK.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### OMC2023: Med Energy Conference & Exhibition
+
+Planetek Italia partecipa all'evento OMC 2023 - Med Energy Conference & Exhibition che si svolge il 24-26 Ottobre 2023 a Ravenna. L'Offshore Mediterranean Conference & Exhibition (OMC), che dal 2021 ha preso il nome di Med Energy Conference & Exhibition, rappresenta il principale momento di incontro nell'area del Mediterraneo per la filiera dell'energia.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/Rheticus-Safeway-Milano-Webinar-1080.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Sicurezza dei Ponti: le Linee Guida MIMS e il ruolo del monitoraggio satellitare
+
+[WEBINAR GRATUITO] Monitorare le infrastrutture stradali da satellite. L’esperienza della Città metropolitana di Milano. Online on demand: inviaci una richiesta per ricevere il link al webinar Descrizione Il Ministero delle Infrastrutture ad agosto 2022 ha emanato le Linee Guida per la Sicurezza dei Ponti (e gallerie). Il documento definisce le procedure multilivello e multiobiettivo per l'identificazione tempestiva delle criticità e l'adozione di misure preventive per evitare guasti, crolli o incidenti.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/IAC-2023-Baku-banner.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### IAC 2023 - International Astronautical Congress
+
+Planetek Italia partecipa allo IAC - International Astronautical Congress 2023 che si svolge a Baku, Azerbaijan, 2-6 Ottobre, 2023. L'International Astronautical Congress prevede un programma di conferenze scientifiche e uno spazio espositivo dedicati allo Spazio. Un evento che riunisce circa 4.000 attori spaziali provenienti da tutto il mondo. Ogni anno lo IAC cambia paese di svolgimento, tema e organizzatore locale, consentendo a tutti di saperne di più e di far parte della rete spaziale mondiale.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/Saudi-Green-Initiative-2.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Italia si aggiudica un contratto per monitorare la riforestazione in Arabia Saudita
+
+Planetek Italia è orgogliosa di annunciare il recente contratto siglato con l'Arabia Saudita. In collaborazione con il suo partner saudita, Geosystems Middle East (GeosystemsME), Planetek Italia è stata selezionata per fornire servizi di monitoraggio basati sull'Osservazione della Terra (EO) per le iniziative di riforestazione nel Regno. Il progetto, guidato da GeosystemsME e sostenuto da Planetek Italia, GeoSpace International e Hexagon AB, mira a contribuire all'attuazione dell'ambiziosa Saudi Green Initiative.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/Wemakepuglia-podcast-intelligenza-satellitare-1.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### [Podcast] Intelligenza satellitare: Spacedge
+
+Nell'Episodio 9 del podcast "We Make Puglia, il futuro è qui" Vincenzo Barbieri, CMO di Planetek Italia, ci parla di "Intelligenza satellitare: Spacedge" uno dei programmi di punta che Planetek sta sviluppando in collaborazione con il Phi-Lab dell'Agenzia Spaziale Europea che sfrutta l'intelligenza artificiale per rendere i satelliti capaci di prendere decisioni operative sulla base delle situazioni in cui operano. Ogni giorno migliaia di satelliti acquisiscono una fotografia completa della nostra Terra. Ma cosa ce ne facciamo di tutte queste immagini?
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/PLANETEK-Relazione-Impatto-2022-ITA-social.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Relazione di Impatto 2022
+
+Relazione di Impatto 2022. Da Aprile 2021, Planetek Italia ha adottato lo status di “Società Benefit”, inserendo nel proprio statuto obiettivi di beneficio comune e formalizzando in questo modo il proprio modello di impresa orientato a coniugare la sostenibilità economica, sociale ed ambientale.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](https://www.planetek.it/sites/default/files/social-banners/Planetek-GIS3W-agreement-1280.jpg)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek e GIS3W partnership strategica nel settore della geoinformazione
+
+Planetek Italia e GIS3W hanno firmato un Memorandum of Understanding (MoU) che sancisce una nuova collaborazione strategica volta a promuovere l'innovazione nel campo della geoinformazione e a fornire soluzioni avanzate per la gestione di informazioni geospaziali su web. L'accordo è stato siglato da Giovanni Sylos Labini, CEO di Planetek Italia, e Leonardo Lami e Walter Lorenzetti, CEO di GIS3W, in presenza di importanti rappresentanti delle due società.
+:::
+
+::::
+
