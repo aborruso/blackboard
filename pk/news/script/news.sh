@@ -30,17 +30,29 @@ fi
   description=$(<"$folder"/tmp/page.html scrape -e "//meta[@property='og:description']/@content")
   image=$(<"$folder"/tmp/page.html scrape -e "//meta[@property='og:image']/@content")
   rightimage=$(<"$folder"/tmp/page.html scrape -e "//link[@rel='image_src']/@href")
+  date=$(<"$folder"/tmp/page.html scrape -e "//meta[@property='article:published_time']/@content")
 
   echo -e "title\t$title" >> "$folder"/tmp/lista.xtab
   echo -e "description\t$description" >> "$folder"/tmp/lista.xtab
   echo -e "image\t$rightimage" >> "$folder"/tmp/lista.xtab
   echo -e "link\t$line" >> "$folder"/tmp/lista.xtab
+  echo -e "date\t$date" >> "$folder"/tmp/lista.xtab
 
   echo -e "\n" >> "$folder"/tmp/lista.xtab
 done
 
-# converti archivio in TSV
-mlrgo --ixtab --otsv --ips "\t" clean-whitespace then filter -x 'is_null($image)' "$folder"/tmp/lista.xtab | tail -n +2 > "$folder"/output/lista_full.tsv
+# converti archivio in TSV e aggiungilo in append. Mantieni soltanto le ultime 20 notizie
+mlrgo --ixtab --otsv --ips "\t" clean-whitespace then filter -x 'is_null($image)' "$folder"/tmp/lista.xtab | tail -n +2 >> "$folder"/output/lista_full.tsv
+mlrgo -I -N --tsv uniq -a then sort -r 5 then head -n 20 "$folder"/output/lista_full.tsv
+
+# conta numero righe
+num_righe=$(wc -l < "$folder"/output/lista_full.tsv)
+
+# Verifica se il numero di righe è inferiore a 5. Se sì, esci senza errori
+if [ $num_righe -lt 5 ]; then
+    echo "Il numero di righe è inferiore a 5. Uscita senza errori."
+    exit 0
+fi
 
 # crea header slide
 cat "$folder"/slide/risorse/header_02.txt >"$folder"/slide/slide_02.qmd
