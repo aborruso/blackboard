@@ -55,6 +55,22 @@ Planetek Italia partecipa all'evento OMC 2023 - Med Energy Conference & Exhibiti
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/HxGN-PP-2023_banner.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/10/le_novit%C3%A0_del_power_portfolio_2023_di_hexagon)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Le novità del Power Portfolio 2023 di Hexagon
+
+Il Power Portfolio 2023 di Hexagon arriva ricco di novità e soluzioni geospaziali avanzate. La disponibilità per il mercato italiano di questa nuova importante versione della suite Power Portfolio 2023 è stata annunciata Planetek Italia, diamond partner per l'Italia della Hexagon, Safety, Infrastructure & Geospatial Division. La nuova versione presenta miglioramenti significativi in diversi prodotti chiave della suite, offrendo un potente e completo set di strumenti per la gestione e l'analisi dei dati geospaziali.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Rheticus-Safeway-Milano-Webinar-1080.jpg)](https://www.planetek.it/formazione/webinar/sicurezza_dei_ponti_le_linee_guida_mims_e_il_ruolo_del_monitoraggio_satellitare)
 :::
 
