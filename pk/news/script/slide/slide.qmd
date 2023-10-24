@@ -55,6 +55,38 @@ Planetek Italia partecipa all'evento OMC 2023 - Med Energy Conference & Exhibiti
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/planetek-schneider-digital-pluralview-monitor-banner-1200.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/10/planetek_italia_e_schneider_digital_insieme_per_una_visione_tridimensionale_del_futuro)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Italia e Schneider Digital insieme per una visione tridimensionale del Futuro
+
+Planetek Italia annuncia la partnership con Schneider Digital, azienda tedesca rinomata per le sue soluzioni di visualizzazione stereo avanzate, per la distribuzione esclusiva in Italia del monitor per la stereoscopia PluralView. Una partnership decisamente vincente che unisce la qualità e solidità tedesca di Schneider Digital, alla trentennale esperienza, alla cura per il cliente e le sue applicazioni marchio di fabbrica di Planetek Italia.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/GeoSitAltamura-geoportale.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/10/comune_di_altamura_il_nuovo_geoportale_per_il_sistema_informativo_territoriale)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Comune di Altamura: il nuovo geoportale per il Sistema Informativo Territoriale
+
+Il Comune di Altamura in collaborazione con il Commissario di Governo per il contrasto del dissesto idrogeologico nella regione Puglia, organizzano una giornata di presentazione del GeoSitAltamura, il nuovo geoportale del Sistema Informativo Territoriale comunale che sarà il punto di riferimento per la raccolta, classificazione e distribuzione dei dati territoriali. Il GeoSitAltamura è stato sviluppato in collaborazione con l’azienda barese Planetek Italia. L’evento si svolge Lunedì, 23 Ottobre 2023 dalle ore 10:30 presso la Sala Consiliare del Comune di Altamura. La partecipazione è libera.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/HxGN-PP-2023_banner.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/10/le_novit%C3%A0_del_power_portfolio_2023_di_hexagon)
 :::
 
