@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/tfa2023.png)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/11/technology_for_all_2023)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### TECHNOLOGY for ALL 2023
+
+“Technology for All” è il forum italiano dedicato all’innovazione tecnologica per il territorio e l’ambiente, i beni culturali e le smart city. L’evento si svolge a Roma dal 14 al 16 novembre 2023 nella sede dell'Hotel Cristoforo Colombo, con una prima giornata dedicata a dimostrazioni pratiche dell’uso di alcune delle tecnologie dedicate per emergenza, gestione e monitoraggio del territorio.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/wlf6-banner-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/11/world_landslide_forum_2023)
 :::
 
