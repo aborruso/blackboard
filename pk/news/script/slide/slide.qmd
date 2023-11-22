@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/ESA-Global_Development_Assistance_Programme-1280.jpg)](https://www.planetek.it/progetti/esa_gda_aid_marine_environment_and_blue_economy)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### ESA GDA AID Marine Environment and Blue Economy
+
+Il Global Development Assistance Programme è un programma dell''Agenzia Spaziale Europea attuato in collaborazione con le istituzioni finanziarie internazionali (IFI) quali World Bank e Asian Development Bank, per fornire informazioni basate sull'Earth Observation (EO) a sostegno dei piani d'azione delle IFI nei paesi in via di sviluppo.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/tfa2023.png)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/11/technology_for_all_2023)
 :::
 
