@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Sme-Enterprize-banner-planetek-italia-720.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/11/planetek_italia_premiata_tra_le_aziende_pi%C3%B9_sostenibili_d%E2%80%99europa)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Italia premiata tra le aziende più sostenibili d’Europa
+
+Planetek Italia premiata Sustainability Hero 2023, l'importante riconoscimento assegnato ogni anno da SME EnterPRIZE, progetto europeo che seleziona le migliori imprese per modello di business basato sui valori della sostenibilità. La cerimonia di premiazione di SME EnterPRIZE si è svolta a Bruxelles, Martedì 28 Novembre 2023, alla presenza dei rappresentanti delle istituzioni dell'Unione Europea ed ha presentato gli Eroi della Sostenibilità selezionati nei dieci Paesi europei partecipanti.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/ESA-Global_Development_Assistance_Programme-1280.jpg)](https://www.planetek.it/progetti/esa_gda_aid_marine_environment_and_blue_economy)
 :::
 
