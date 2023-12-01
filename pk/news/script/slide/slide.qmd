@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/NSE-Expoforum-2023-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/12/new_space_economy_expoforum_2023)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### New Space Economy Expoforum 2023
+
+NSE23 - New Space Economy ExpoForum, 5-7 Dicembre 2023 è una fiera ideata e organizzata da Fondazione E. Amaldi e Fiera Roma, col patrocinio dell'Agenzia Spaziale Italiana (ASI). In questa edizione, Planetek partecipa con un proprio stand (PAD 4 - Stand B 1-2) e intervenendo nelle sessioni tematiche per rappresentare la visione, le prospettive e le soluzioni in ambito Earth Observation e New Space a supporto degli utenti non-space per la costruzione di una società sostenibile e per ispirare le nuove generazioni.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Sme-Enterprize-banner-planetek-italia-720.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/11/planetek_italia_premiata_tra_le_aziende_pi%C3%B9_sostenibili_d%E2%80%99europa)
 :::
 
