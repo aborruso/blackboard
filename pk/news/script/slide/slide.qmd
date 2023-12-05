@@ -39,6 +39,22 @@ NSE23 - New Space Economy ExpoForum, 5-7 Dicembre 2023 è una fiera ideata e org
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/microHETSat_Sitael_HT100_Hall_Effect_Thruster-1080.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/12/planetek_supporta_microhetsat_il_primo_micro_satellite_completamente_elettrico)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek supporta microHETSat il primo micro satellite completamente elettrico
+
+Il 1° dicembre 2023 alle 19:19 (ora italiana) il primo micro satellite completamente elettrico “MicroHETSat” di Sitael è decollato dalla California a bordo della missione Falcon-9 di SpaceX. Il progetto µHETsat o MicroHETsat è un satellite sviluppato presso SITAEL S.p.A. in collaborazione con l'Agenzia Spaziale Europea (ESA) e l'Agenzia Spaziale Italiana (ASI). Rappresenta una delle prime applicazioni di un propulsore elettrico a bassa potenza basato sull'effetto Hall (il cosiddetto HET), a bordo di una piattaforma microsatellitare (μsat).
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Sme-Enterprize-banner-planetek-italia-720.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/11/planetek_italia_premiata_tra_le_aziende_pi%C3%B9_sostenibili_d%E2%80%99europa)
 :::
 
