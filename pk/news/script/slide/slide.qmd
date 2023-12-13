@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/ASI-workshop-DOWNSTREAM-nazionale-2023.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/12/workshop_asi_il_downstream_nazionale_tra_presente_e_futuro)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Workshop ASI - Il downstream nazionale tra presente e futuro
+
+Workshop ASI - Il downstream nazionale tra presente e futuro: un percorso condiviso con la comunità degli utenti. 13-14 Dicembre 2023 - In presenza c/o sede ASI, Roma, e online. Planetek Italia è tra le aziende invitate a presentare alcuni dei servizi realizzati in ambito downstream, come Rheticus Safeway e Fixyll (sessione del 13 dicembre ore 14:30).
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/NSE-Expoforum-2023-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/12/new_space_economy_expoforum_2023)
 :::
 
