@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/I%20marted%C3%AC%20dello%20Spazio-Fondazione-Leonardo-2024-756.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/02/i_marted%C3%AC_dello_spazio_di_fondazione_leonardo)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### I Martedì dello Spazio di Fondazione Leonardo
+
+I Martedì dello Spazio di Fondazione Leonardo – Civiltà delle Macchine. Ciclo di incontri per studenti delle Scuole Secondarie di II grado. Planetek Italia, nell'ambito delle iniziative come Società Benefit, partecipa al ciclo di incontri per promuovere la conoscenza dello Spazio e dell'osservazione della Terra.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/EOLAW-Law_enforcement-1200-Control-Room_Public-Domain-US_Navy_040616-N-3725R-009.jpg)](https://www.planetek.it/progetti/eo_law_%E2%80%93_eo_derived_information_in_support_of_law_enforcement)
 :::
 
