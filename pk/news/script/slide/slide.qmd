@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Costellazione-IRIDE-banner-1280_1.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/03/workshop_afcea_costellazioni_di_piccoli_satelliti_e_applicazioni)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Workshop AFCEA: Costellazioni di piccoli satelliti e applicazioni
+
+Workshop AFCEA: Costellazioni di piccoli satelliti e applicazioni Giovedì 14 Marzo 2024 c/O Agenzia Spaziale Italiana Planetek Italia partecipa al convegno organizzato da AFCEA Capitolo Roma, con un intervento sul tema "3CS: Cognitive Cloud Computing in Space". Il contesto I piccoli satelliti stanno avendo un sempre maggiore ruolo a complemento dei satelliti ad alte prestazioni. I progressi tecnologici hanno permesso lo sviluppo di varie classi (nano, micro e mini) con più veloci tempi di sviluppo ed budget ridotti.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/I%20marted%C3%AC%20dello%20Spazio-Fondazione-Leonardo-2024-756.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/02/i_marted%C3%AC_dello_spazio_di_fondazione_leonardo)
 :::
 
