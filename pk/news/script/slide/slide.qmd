@@ -39,6 +39,22 @@ Workshop AFCEA: Costellazioni di piccoli satelliti e applicazioni Giovedì 14 Ma
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/MAM-2024-Mediterranean-Aerospace-Matching-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/03/mediterranean_aerospace_matching_2024)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Mediterranean Aerospace Matching 2024
+
+Planetek Italia partecipa al Mediterranean Aerospace Matching 2024. Unisciti a noi al nostro stand per incontrare il nostro staff e saperne di più sul software di controllo della missione spaziale, sulla gestione dei dati satellitari di bordo, sulla nuova costellazione IRIDE, sui servizi e sulle soluzioni di geoinformazione basati su EO, sui satelliti e UAV per l'ambiente e le Smart Cities, sulla geoanalisi per l'energia. e società di ingegneria, e così via. Non perdetevi venerdì 22 marzo alle 14:30 la sessione "SPACE TRENDS" di WIRED.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/I%20marted%C3%AC%20dello%20Spazio-Fondazione-Leonardo-2024-756.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/02/i_marted%C3%AC_dello_spazio_di_fondazione_leonardo)
 :::
 
@@ -318,22 +334,6 @@ Nell'Episodio 9 del podcast "We Make Puglia, il futuro è qui" Vincenzo Barbieri
 ### Relazione di Impatto 2022
 
 Relazione di Impatto 2022. Da Aprile 2021, Planetek Italia ha adottato lo status di “Società Benefit”, inserendo nel proprio statuto obiettivi di beneficio comune e formalizzando in questo modo il proprio modello di impresa orientato a coniugare la sostenibilità economica, sociale ed ambientale.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-GIS3W-agreement-1280.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/07/planetek_e_gis3w_partnership_strategica_nel_settore_della_geoinformazione)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek e GIS3W partnership strategica nel settore della geoinformazione
-
-Planetek Italia e GIS3W hanno firmato un Memorandum of Understanding (MoU) che sancisce una nuova collaborazione strategica volta a promuovere l'innovazione nel campo della geoinformazione e a fornire soluzioni avanzate per la gestione di informazioni geospaziali su web. L'accordo è stato siglato da Giovanni Sylos Labini, CEO di Planetek Italia, e Leonardo Lami e Walter Lorenzetti, CEO di GIS3W, in presenza di importanti rappresentanti delle due società.
 :::
 
 ::::
