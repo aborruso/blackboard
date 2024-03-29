@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Geomedia-Speciale-IRIDE-square.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/03/alla_scoperta_della_costellazione_italiana_iride)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Alla scoperta della costellazione italiana IRIDE
+
+Il numero speciale della Rivista Geomedia dedicato alla costellazione italiana IRIDE è disponibile online e in edicola. Nello speciale un articolo curato da Planetek Italia che esplora IRIDE come catalizzatore di innovazione e crescita per l'industria italiana nel settore. Un progetto importante non solo per il significativo impegno tecnologico richiesto, ma anche per essere una pietra miliare che segna una svolta per l’ecosistema industriale italiano nell’osservazione della Terra. Scarica il PDF dell'articolo.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Corsera-Milano-MM-Rheticus.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/03/a_milano_la_rete_idrica_si_%C2%ABspia%C2%BB_dal_cielo)
 :::
 
@@ -318,22 +334,6 @@ Il Power Portfolio 2023 di Hexagon arriva ricco di novità e soluzioni geospazia
 ### Sicurezza dei Ponti: le Linee Guida MIMS e il ruolo del monitoraggio satellitare
 
 [WEBINAR GRATUITO] Monitorare le infrastrutture stradali da satellite. L’esperienza della Città metropolitana di Milano. Online on demand: inviaci una richiesta per ricevere il link al webinar Descrizione Il Ministero delle Infrastrutture ad agosto 2022 ha emanato le Linee Guida per la Sicurezza dei Ponti (e gallerie). Il documento definisce le procedure multilivello e multiobiettivo per l'identificazione tempestiva delle criticità e l'adozione di misure preventive per evitare guasti, crolli o incidenti.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/IAC-2023-Baku-banner.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/10/iac_2023_international_astronautical_congress)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### IAC 2023 - International Astronautical Congress
-
-Planetek Italia partecipa allo IAC - International Astronautical Congress 2023 che si svolge a Baku, Azerbaijan, 2-6 Ottobre, 2023. L'International Astronautical Congress prevede un programma di conferenze scientifiche e uno spazio espositivo dedicati allo Spazio. Un evento che riunisce circa 4.000 attori spaziali provenienti da tutto il mondo. Ogni anno lo IAC cambia paese di svolgimento, tema e organizzatore locale, consentendo a tutti di saperne di più e di far parte della rete spaziale mondiale.
 :::
 
 ::::
