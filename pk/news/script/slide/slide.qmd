@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Spacedge_banner.jpg)](https://www.planetek.it/prodotti/tutti_i_prodotti/spacedge)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Spacedge
+
+Un ecosistema spaziale ibrido per l’osservazione della Terra e l’intelligence geospaziale che introduce un nuovo modello di satellite as-a-service disegnato per permettere l'accesso a risorse in orbita on-demand.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Geomedia-Speciale-IRIDE-square.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/03/alla_scoperta_della_costellazione_italiana_iride)
 :::
 
@@ -318,22 +334,6 @@ Il Comune di Altamura in collaborazione con il Commissario di Governo per il con
 ### Le novità del Power Portfolio 2023 di Hexagon
 
 Il Power Portfolio 2023 di Hexagon arriva ricco di novità e soluzioni geospaziali avanzate. La disponibilità per il mercato italiano di questa nuova importante versione della suite Power Portfolio 2023 è stata annunciata Planetek Italia, diamond partner per l'Italia della Hexagon, Safety, Infrastructure & Geospatial Division. La nuova versione presenta miglioramenti significativi in diversi prodotti chiave della suite, offrendo un potente e completo set di strumenti per la gestione e l'analisi dei dati geospaziali.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Rheticus-Safeway-Milano-Webinar-1080.jpg)](https://www.planetek.it/formazione/webinar/sicurezza_dei_ponti_le_linee_guida_mims_e_il_ruolo_del_monitoraggio_satellitare)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Sicurezza dei Ponti: le Linee Guida MIMS e il ruolo del monitoraggio satellitare
-
-[WEBINAR GRATUITO] Monitorare le infrastrutture stradali da satellite. L’esperienza della Città metropolitana di Milano. Online on demand: inviaci una richiesta per ricevere il link al webinar Descrizione Il Ministero delle Infrastrutture ad agosto 2022 ha emanato le Linee Guida per la Sicurezza dei Ponti (e gallerie). Il documento definisce le procedure multilivello e multiobiettivo per l'identificazione tempestiva delle criticità e l'adozione di misure preventive per evitare guasti, crolli o incidenti.
 :::
 
 ::::
