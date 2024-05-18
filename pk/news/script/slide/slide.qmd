@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-Academy-2024-banner-sq.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/07/planetek_academy_2024_elaborare_immagini_satellitari_con_python_in_ambiente_cloud)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Academy 2024: Elaborare immagini satellitari con Python in ambiente cloud
+
+Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python in ambiente cloud" When: 17-18-19 luglio 2024 c/o SPEGEA - Mete Business School, Parco Politecnico di Bari, Viale Japigia 182/188, Bari. Planetek Academy è un innovativo percorso formativo gratuito promosso e organizzato da Planetek Italia, indirizzato a laureati interessati a potenziare conoscenze e competenze utili ad accedere alle opportunità lavorative nel settore della Geomatica e dell'Earth observation.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/EARSC-EXPANDEO-2024-banner.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/04/planetek_tra_le_finaliste_del_earsc_company_award_2024)
 :::
 
@@ -318,22 +334,6 @@ Planetek Italia partecipa al 6° World Landslide Forum (Forum Mondiale sulle Fra
 ### OMC2023: Med Energy Conference & Exhibition
 
 Planetek Italia partecipa all'evento OMC 2023 - Med Energy Conference & Exhibition che si svolge il 24-26 Ottobre 2023 a Ravenna. L'Offshore Mediterranean Conference & Exhibition (OMC), che dal 2021 ha preso il nome di Med Energy Conference & Exhibition, rappresenta il principale momento di incontro nell'area del Mediterraneo per la filiera dell'energia.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/planetek-schneider-digital-pluralview-monitor-banner-1200.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/10/planetek_italia_e_schneider_digital_insieme_per_una_visione_tridimensionale_del_futuro)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek Italia e Schneider Digital insieme per una visione tridimensionale del Futuro
-
-Planetek Italia annuncia la partnership con Schneider Digital, azienda tedesca rinomata per le sue soluzioni di visualizzazione stereo avanzate, per la distribuzione esclusiva in Italia del monitor per la stereoscopia PluralView. Una partnership decisamente vincente che unisce la qualità e solidità tedesca di Schneider Digital, alla trentennale esperienza, alla cura per il cliente e le sue applicazioni marchio di fabbrica di Planetek Italia.
 :::
 
 ::::
