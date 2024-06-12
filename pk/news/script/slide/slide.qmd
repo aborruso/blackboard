@@ -55,6 +55,22 @@ Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/banner-dottorato-dnot-2024-sapienza-1070-700.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/06/corsi_dottorato_nazionale_in_osservazione_della_terra_40_ciclo)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Corsi Dottorato Nazionale in Osservazione della Terra - 40° ciclo
+
+Corsi di Dottorato Nazionale - 40° ciclo. Bandi di concorso per l'ammissione ai corsi - a.a. 2024-2025. Planetek Italia promuove N. 1 BORSA DI STUDIO in collaborazione con il Dottorato Nazionale in Osservazione della Terra - Università Sapienza di Roma.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/worshop_AIT-ENEA_2024.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/06/workshop_tematico_ait_enea_telerilevamento_e_gestione_risorse_idriche)
 :::
 
@@ -318,22 +334,6 @@ Il 1° dicembre 2023 alle 19:19 (ora italiana) il primo micro satellite completa
 ### Planetek Italia premiata tra le aziende più sostenibili d’Europa
 
 Planetek Italia premiata Sustainability Hero 2023, l'importante riconoscimento assegnato ogni anno da SME EnterPRIZE, progetto europeo che seleziona le migliori imprese per modello di business basato sui valori della sostenibilità. La cerimonia di premiazione di SME EnterPRIZE si è svolta a Bruxelles, Martedì 28 Novembre 2023, alla presenza dei rappresentanti delle istituzioni dell'Unione Europea ed ha presentato gli Eroi della Sostenibilità selezionati nei dieci Paesi europei partecipanti.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/ESA-Global_Development_Assistance_Programme-1280.jpg)](https://www.planetek.it/progetti/esa_gda_aid_marine_environment_and_blue_economy)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### ESA GDA AID Marine Environment and Blue Economy
-
-Il Global Development Assistance Programme è un programma dell''Agenzia Spaziale Europea attuato in collaborazione con le istituzioni finanziarie internazionali (IFI) quali World Bank e Asian Development Bank, per fornire informazioni basate sull'Earth Observation (EO) a sostegno dei piani d'azione delle IFI nei paesi in via di sviluppo.
 :::
 
 ::::
