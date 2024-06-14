@@ -119,6 +119,22 @@ Planetek Italia è tra le cinque finaliste all'EARSC Company Award 2024. I vinci
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/EARSC-EXPANDEO-2024-banner.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/04/planetek_tra_le_finaliste_del_earsc_company_award_2024)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek tra le finaliste del EARSC Company Award 2024
+
+Planetek Italia sul podio dell'EARSC Company Award 2024. I vincitori sono stati premiati durante l'evento EXPANDEO 2024, 12-13 giugno 2024, Bruxelles. Le prime tre aziende dell'European Company Award 2024 sono state selezionate attraverso il voto di tutti i membri dell'EARSC, che rappresentano la community degli stakeholder europei che operano nel settore dell'osservazione della Terra.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Workshop%20Tecnologie%20spaziali%20per%20le%20future%20missioni%20di%20ASI.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/04/workshop_tecnologie_spaziali_per_le_future_missioni_di_asi)
 :::
 
@@ -318,22 +334,6 @@ NSE23 - New Space Economy ExpoForum, 5-7 Dicembre 2023 è una fiera ideata e org
 ### Planetek supporta microHETSat il primo micro satellite completamente elettrico
 
 Il 1° dicembre 2023 alle 19:19 (ora italiana) il primo micro satellite completamente elettrico “MicroHETSat” di Sitael è decollato dalla California a bordo della missione Falcon-9 di SpaceX. Il progetto µHETsat o MicroHETsat è un satellite sviluppato presso SITAEL S.p.A. in collaborazione con l'Agenzia Spaziale Europea (ESA) e l'Agenzia Spaziale Italiana (ASI). Rappresenta una delle prime applicazioni di un propulsore elettrico a bassa potenza basato sull'effetto Hall (il cosiddetto HET), a bordo di una piattaforma microsatellitare (μsat).
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Sme-Enterprize-banner-planetek-italia-720.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/11/planetek_italia_premiata_tra_le_aziende_pi%C3%B9_sostenibili_d%E2%80%99europa)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek Italia premiata tra le aziende più sostenibili d’Europa
-
-Planetek Italia premiata Sustainability Hero 2023, l'importante riconoscimento assegnato ogni anno da SME EnterPRIZE, progetto europeo che seleziona le migliori imprese per modello di business basato sui valori della sostenibilità. La cerimonia di premiazione di SME EnterPRIZE si è svolta a Bruxelles, Martedì 28 Novembre 2023, alla presenza dei rappresentanti delle istituzioni dell'Unione Europea ed ha presentato gli Eroi della Sostenibilità selezionati nei dieci Paesi europei partecipanti.
 :::
 
 ::::
