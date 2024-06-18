@@ -55,6 +55,38 @@ Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-Academy-2024-banner-sq.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/07/planetek_academy_2024_elaborare_immagini_satellitari_con_python_in_ambiente_cloud)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Academy 2024: Elaborare immagini satellitari con Python in ambiente cloud
+
+Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python in ambiente cloud" Dove e Quando: 17-18-19 luglio 2024 c/o SPEGEA - Mete Business School, Parco Politecnico di Bari, Viale Japigia 182/188, Bari. Skyrocket your career! Sono aperte le candidature alla Planetek Academy. Iscriviti entro il 20 giugno e partecipa dal 17 al 19 luglio al corso gratuito di tre giorni (20 ore) "Elaborare immagini satellitari con Python in ambiente cloud" con project work e career day per giovani talenti.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Welfare-Champion-Planetek-2024-Palco-Premiazione.png)](https://www.planetek.it/news_eventi/archivio_news/2024/06/planetek_italia_tra_le_imprese_pi%C3%B9_virtuose_d%E2%80%99italia_per_il_welfare_e_l%E2%80%99ambiente_di_lavoro)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Italia tra le imprese più virtuose d’Italia per il welfare e l’ambiente di lavoro
+
+Planetek Italia tra le imprese più virtuose d’Italia per il welfare aziendale e l’ambiente di lavoro. Un weekend ricco di premi per Planetek Italia. Dopo il riconoscimento nella competizione europea indetta dalla EARSC che individua le migliori aziende del settore aerospaziale, Planetek Italia conferma anche per il 2024 il rating di Welfare Champion italiana, assegnato alle migliori storie di welfare aziendale, e aggiunge un nuovo doppio riconoscimento "HappyIndex® AtWork" e "WeImpact Index®", indici di soddisfazione da parte degli stakeholder interni.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/banner-dottorato-dnot-2024-sapienza-1070-700.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/06/corsi_dottorato_nazionale_in_osservazione_della_terra_40_ciclo)
 :::
 
@@ -302,38 +334,6 @@ Il progetto EO Law mira a dimostrare i vantaggi dell’utilizzo di informazioni 
 ### Workshop ASI - Il downstream nazionale tra presente e futuro
 
 Workshop ASI - Il downstream nazionale tra presente e futuro: un percorso condiviso con la comunità degli utenti. 13-14 Dicembre 2023 - In presenza c/o sede ASI, Roma, e online. Planetek Italia è tra le aziende invitate a presentare alcuni dei servizi realizzati in ambito downstream, come Rheticus Safeway e Fixyll (sessione del 13 dicembre ore 14:30).
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/NSE-Expoforum-2023-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2023/12/new_space_economy_expoforum_2023)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### New Space Economy Expoforum 2023
-
-NSE23 - New Space Economy ExpoForum, 5-7 Dicembre 2023 è una fiera ideata e organizzata da Fondazione E. Amaldi e Fiera Roma, col patrocinio dell'Agenzia Spaziale Italiana (ASI). In questa edizione, Planetek partecipa con un proprio stand (PAD 4 - Stand B 1-2) e intervenendo nelle sessioni tematiche per rappresentare la visione, le prospettive e le soluzioni in ambito Earth Observation e New Space a supporto degli utenti non-space per la costruzione di una società sostenibile e per ispirare le nuove generazioni.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/microHETSat_Sitael_HT100_Hall_Effect_Thruster-1080.jpg)](https://www.planetek.it/news_eventi/archivio_news/2023/12/planetek_supporta_microhetsat_il_primo_micro_satellite_completamente_elettrico)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek supporta microHETSat il primo micro satellite completamente elettrico
-
-Il 1° dicembre 2023 alle 19:19 (ora italiana) il primo micro satellite completamente elettrico “MicroHETSat” di Sitael è decollato dalla California a bordo della missione Falcon-9 di SpaceX. Il progetto µHETsat o MicroHETsat è un satellite sviluppato presso SITAEL S.p.A. in collaborazione con l'Agenzia Spaziale Europea (ESA) e l'Agenzia Spaziale Italiana (ASI). Rappresenta una delle prime applicazioni di un propulsore elettrico a bassa potenza basato sull'effetto Hall (il cosiddetto HET), a bordo di una piattaforma microsatellitare (μsat).
 :::
 
 ::::
