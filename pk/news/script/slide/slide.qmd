@@ -23,6 +23,38 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/universwater-minibanner.jpg)](https://www.planetek.it/progetti/universwater)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Universwater
+
+UNIVERSWATER è un progetto finanziato dall’UE che mira a ottimizzare l’uso delle risorse idriche con tecnologie all’avanguardia e metodi sostenibili. L’obiettivo del progetto è aiutare le comunità ad affrontare le sfide agro-idriche, trasformando il settore della gestione agro-idrica. La qualità e la quantità dell’acqua sono sottoposte a una pressione crescente da parte delle attività agricole, esacerbate dai cambiamenti climatici.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/ION_satellite_carrier_by_D-Orbit-1920_0.jpg)](https://www.planetek.it/progetti/asi_in_orbit_space_lab)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### ASI In-Orbit Space Lab
+
+Un laboratorio in orbita terrestre per sperimentare modelli innovativi per l’osservazione della Terra. Finanziato da fondi PNRR, l'In-Orbit Space Lab sviluppato da Planetek Italia, D-Orbit e AIKO, ha l'obiettivo di supportare le attività dell’Agenzia Spaziale Italiana (ASI). L'Agenzia Spaziale Italiana (ASI) punta sull'Osservazione della Terra, avviando il potenziamento del Centro Spaziale di Matera e sviluppando un laboratorio orbitale chiamato In-Orbit Space Lab con i fondi del PNRR.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/NCVC-Afforestation-monitoring-Saudi-Green-Initiative-banner.jpg)](https://www.planetek.it/progetti/monitorare_la_riforestazione_in_arabia_saudita)
 :::
 
@@ -302,38 +334,6 @@ Un ecosistema spaziale ibrido per l’osservazione della Terra e l’intelligenc
 ### Alla scoperta della costellazione italiana IRIDE
 
 Il numero speciale della Rivista Geomedia dedicato alla costellazione italiana IRIDE è disponibile online e in edicola. Nello speciale un articolo curato da Planetek Italia che esplora IRIDE come catalizzatore di innovazione e crescita per l'industria italiana nel settore. Un progetto importante non solo per il significativo impegno tecnologico richiesto, ma anche per essere una pietra miliare che segna una svolta per l’ecosistema industriale italiano nell’osservazione della Terra. Scarica il PDF dell'articolo.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Corsera-Milano-MM-Rheticus.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/03/a_milano_la_rete_idrica_si_%C2%ABspia%C2%BB_dal_cielo)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### A Milano la rete idrica si «spia» dal cielo
-
-Quali sono i segnali che fanno scattare gli interventi? Dalle anomalie nella crescita del verde, agli spostamenti dei pali della luce o l'asfalto che sprofonda. Migliorare la capacità di individuare i rischi a carico delle reti idriche e fognarie. È l’obiettivo di MM Spa, che in Lombardia utilizza i satelliti per monitorare le reti idrico-fognarie. Mm SpA, la partecipata al 100% del Comune di Milano, sovrapponendo le immagini satellitari con la rete idrica, fatta di acquedotti (2.200 km di tubature) e fogne (1635 km), è in grado di rilevare anomalie e criticità.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/stelle-del-sud-2024-sole24ore-banner-planetek-italia.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/03/planetek_italia_tra_le_200_eccellenze_del_sud_italia)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek Italia tra le 200 Eccellenze del Sud Italia
-
-Planetek Italia entra nella prestigiosa classifica "Stelle del Sud 2024" de Il Sole 24 Ore. Un altro importante riconoscimento per Planetek Italia, che è risultata ventinovesima tra le aziende pugliesi e unica nel settore aerospaziale, nella classifica delle 200 aziende del Sud con le migliori performance di crescita di fatturato, dipendenti, immobilizzazioni.
 :::
 
 ::::
