@@ -71,6 +71,22 @@ Planetek Academy: “Business e negoziazione efficace per la Space Economy” Pl
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-Academy-2024-banner-square.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/10/planetek_academy_business_e_negoziazione_efficace_per_la_space_economy)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek Academy: Business e negoziazione efficace per la Space Economy
+
+La vendita di servizi e tecnologie alle PA e ai privati è il tuo campo e vuoi fare carriera nel business dell'Earth Observation? Sono aperte le iscrizioni al percorso formativo gratuito e innovativo destinato a professionisti con esperienza nel sales management. Il percorso mira a potenziare le conoscenze e competenze necessarie per lavorare in ruoli sales nel settore dell'osservazione della Terra e dello Spazio. L'Academy prevede un corso focalizzato sul business development nel settore spaziale, il telerilevamento e le tecniche di negoziazione efficace.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/WorldView-Legion-satellite-first-images-Copy-MAXAR.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/08/le_prime_immagini_dai_satelliti%C2%A0worldview_legion)
 :::
 
@@ -318,22 +334,6 @@ Planetek Italia partecipa al "14° Workshop Tematico AIT-ENEA | Telerilevamento 
 ### 4S Symposium 2024
 
 Planetek sarà presente all'edizione 2024 del "4S Symposium -Small Satellites Systems and Services" organizzato da ESA e CNES il prossimo 27-31 maggio 2024 a Palma di Maiorca, Spagna. Il tema speciale di quest'anno è "Trasformazione spaziale". Il programma coprirà anche sessioni tecniche come: analisi della missione e del sistema; applicazioni quali l'osservazione della Terra, la scienza, le telecomunicazioni e la navigazione; nuove tecnologie a livello di sistema, sottosistema e componente.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/EARSC-EXPANDEO-2024-banner.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/04/planetek_tra_le_finaliste_del_earsc_company_award_2024)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek tra le finaliste del EARSC Company Award 2024
-
-Planetek Italia è tra le cinque finaliste all'EARSC Company Award 2024. I vincitori saranno premiati durante l'evento annuale EXPANDEO 2024, che si svolge dal 12 al 13 giugno 2024 a Bruxelles. Le prime cinque aziende sono state selezionate attraverso il voto di tutti i membri dell'EARSC, che rappresentano la community degli stakeholder europei che operano nel settore dell'osservazione della Terra.
 :::
 
 ::::
