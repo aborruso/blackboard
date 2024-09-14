@@ -87,6 +87,22 @@ La vendita di servizi e tecnologie alle PA e ai privati è il tuo campo e vuoi f
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/imprese-vincenti-Planetek-720_0.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/09/planetek_selezionata_tra_le_imprese_vincenti_del_2024)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek selezionata tra le Imprese Vincenti del 2024
+
+Planetek Italia è tra le dieci imprese premiate alla 5a edizione di "Imprese Vincenti", il programma promosso da Intesa SanPaolo, che punta a diffondere la cultura di impresa e far conoscere e celebrare l’eccellenza imprenditoriale italiana.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/WorldView-Legion-satellite-first-images-Copy-MAXAR.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/08/le_prime_immagini_dai_satelliti%C2%A0worldview_legion)
 :::
 
@@ -318,22 +334,6 @@ Corsi di Dottorato Nazionale - 40° ciclo. Bandi di concorso per l'ammissione ai
 ### Workshop Tematico AIT - ENEA - Telerilevamento e gestione risorse idriche
 
 Planetek Italia partecipa al "14° Workshop Tematico AIT-ENEA | Telerilevamento applicato alla gestione delle risorse idriche" in programma il 6-7 giugno a Bologna. Per Planetek è un importante occasione per presentare le potenzialità del telerilevamento satellitare nella capacità di fornire un valido supporto informativo e conoscitivo agli operatori e gli enti che hanno il compito di gestire in modo efficiente e salvaguardare la risorsa idrica.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/4S-Symposium-2024.png)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/05/4s_symposium_2024)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### 4S Symposium 2024
-
-Planetek sarà presente all'edizione 2024 del "4S Symposium -Small Satellites Systems and Services" organizzato da ESA e CNES il prossimo 27-31 maggio 2024 a Palma di Maiorca, Spagna. Il tema speciale di quest'anno è "Trasformazione spaziale". Il programma coprirà anche sessioni tecniche come: analisi della missione e del sistema; applicazioni quali l'osservazione della Terra, la scienza, le telecomunicazioni e la navigazione; nuove tecnologie a livello di sistema, sottosistema e componente.
 :::
 
 ::::
