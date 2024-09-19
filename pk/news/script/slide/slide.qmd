@@ -87,6 +87,22 @@ La vendita di servizi e tecnologie alle PA e ai privati è il tuo campo e vuoi f
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Zero-Debris-Charter-signed-by-Planetek-1080.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/09/planetek_firma_la_zero_debris_charter_di_esa)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Planetek firma la Zero Debris Charter di ESA
+
+Planetek ha firmato la Zero Debris Charter, l'iniziativa promossa dall'Agenzia Spaziale Europea per implementare un approccio "Zero Debris" (ndr. Zero Detriti Spaziali) per le sue missioni e per incoraggiare i partner e altri attori a perseguire percorsi simili, mettendo così collettivamente l'Europa all'avanguardia della sostenibilità sulla Terra e nello spazio. Planetek è già una delle prime firmatarie della "Dichiarazione per un Settore Spaziale Responsabile" siglata nel 2022 e crede fermamente in questo approccio e in questi obiettivi.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/imprese-vincenti-Planetek-720_0.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/09/planetek_selezionata_tra_le_imprese_vincenti_del_2024)
 :::
 
@@ -318,22 +334,6 @@ Planetek Italia tra le imprese più virtuose d’Italia per il welfare aziendale
 ### Corsi Dottorato Nazionale in Osservazione della Terra - 40° ciclo
 
 Corsi di Dottorato Nazionale - 40° ciclo. Bandi di concorso per l'ammissione ai corsi - a.a. 2024-2025. Planetek Italia promuove N. 1 BORSA DI STUDIO in collaborazione con il Dottorato Nazionale in Osservazione della Terra - Università Sapienza di Roma.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/worshop_AIT-ENEA_2024.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/06/workshop_tematico_ait_enea_telerilevamento_e_gestione_risorse_idriche)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Workshop Tematico AIT - ENEA - Telerilevamento e gestione risorse idriche
-
-Planetek Italia partecipa al "14° Workshop Tematico AIT-ENEA | Telerilevamento applicato alla gestione delle risorse idriche" in programma il 6-7 giugno a Bologna. Per Planetek è un importante occasione per presentare le potenzialità del telerilevamento satellitare nella capacità di fornire un valido supporto informativo e conoscitivo agli operatori e gli enti che hanno il compito di gestire in modo efficiente e salvaguardare la risorsa idrica.
 :::
 
 ::::
