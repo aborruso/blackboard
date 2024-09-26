@@ -87,6 +87,22 @@ La vendita di servizi e tecnologie alle PA e ai privati è il tuo campo e vuoi f
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/eolearning-ita-quadrato.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/09/corsi_online_gratuiti_per_geologi_su_telerilevamento_e_earth_observation)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Corsi Online Gratuiti per Geologi su Telerilevamento e Earth Observation
+
+Formazione gratuita su Telerilevamento ed Earth Observation con CFP riconosciuti dall'Ordine dei Geologi. A partire dal 1 Ottobre 2024 e fino al 31 dicembre 2025 i Geologi iscritti all'ordine potranno frequentare in auto formazione i Corsi Premium sul Telerilevamento e l’Osservazione della Terra della piattaforma EO-Learning.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/Zero-Debris-Charter-signed-by-Planetek-1080.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/09/planetek_firma_la_zero_debris_charter_di_esa)
 :::
 
@@ -318,22 +334,6 @@ Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python
 ### Planetek Italia tra le imprese più virtuose d’Italia per il welfare e l’ambiente di lavoro
 
 Planetek Italia tra le imprese più virtuose d’Italia per il welfare aziendale e l’ambiente di lavoro. Un weekend ricco di premi per Planetek Italia. Dopo il riconoscimento nella competizione europea indetta dalla EARSC che individua le migliori aziende del settore aerospaziale, Planetek Italia conferma anche per il 2024 il rating di Welfare Champion italiana, assegnato alle migliori storie di welfare aziendale, e aggiunge un nuovo doppio riconoscimento "HappyIndex® AtWork" e "WeImpact Index®", indici di soddisfazione da parte degli stakeholder interni.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/banner-dottorato-dnot-2024-sapienza-1070-700.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/06/corsi_dottorato_nazionale_in_osservazione_della_terra_40_ciclo)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Corsi Dottorato Nazionale in Osservazione della Terra - 40° ciclo
-
-Corsi di Dottorato Nazionale - 40° ciclo. Bandi di concorso per l'ammissione ai corsi - a.a. 2024-2025. Planetek Italia promuove N. 1 BORSA DI STUDIO in collaborazione con il Dottorato Nazionale in Osservazione della Terra - Università Sapienza di Roma.
 :::
 
 ::::
