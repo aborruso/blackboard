@@ -87,6 +87,22 @@ La vendita di servizi e tecnologie alle PA e ai privati è il tuo campo e vuoi f
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/ServiziaReteTOUR-2024-600.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/10/servizi_a_rete_tour_2024_lo_spazio_per_le_water_utilities)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Servizi a Rete Tour 2024: Lo Spazio per le Water Utilities
+
+Si svolge a Bari il 9 e 10 ottobre il Servizi a Rete TOUR 2024, l'evento del settore water utilities e dei gestori di reti idriche integrate, energia e tecnologiche. L'evento è organizzato da Servizi a Rete in collaborazione con Acquedotto Pugliese. Planetek Italia partecipa con un proprio desk e presentando alcune use case di utilizzo dell'intelligence satellitare in questo ambito. Per l'occasione presenteremo in anteprima ‘Lo Spazio per le Water Utilities’, il portfolio dei servizi di monitoraggio satellitare dedicati ai gestori del Servizio Idrico Integrato.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/eolearning-ita-quadrato.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/09/corsi_online_gratuiti_per_geologi_su_telerilevamento_e_earth_observation)
 :::
 
@@ -318,22 +334,6 @@ Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python
 ### Planetek Academy 2024: Elaborare immagini satellitari con Python in ambiente cloud
 
 Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python in ambiente cloud" Dove e Quando: 17-18-19 luglio 2024 c/o SPEGEA - Mete Business School, Parco Politecnico di Bari, Viale Japigia 182/188, Bari. Skyrocket your career! Sono aperte le candidature alla Planetek Academy. Iscriviti entro il 20 giugno e partecipa dal 17 al 19 luglio al corso gratuito di tre giorni (20 ore) "Elaborare immagini satellitari con Python in ambiente cloud" con project work e career day per giovani talenti.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Welfare-Champion-Planetek-2024-Palco-Premiazione.png)](https://www.planetek.it/news_eventi/archivio_news/2024/06/planetek_italia_tra_le_imprese_pi%C3%B9_virtuose_d%E2%80%99italia_per_il_welfare_e_l%E2%80%99ambiente_di_lavoro)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek Italia tra le imprese più virtuose d’Italia per il welfare e l’ambiente di lavoro
-
-Planetek Italia tra le imprese più virtuose d’Italia per il welfare aziendale e l’ambiente di lavoro. Un weekend ricco di premi per Planetek Italia. Dopo il riconoscimento nella competizione europea indetta dalla EARSC che individua le migliori aziende del settore aerospaziale, Planetek Italia conferma anche per il 2024 il rating di Welfare Champion italiana, assegnato alle migliori storie di welfare aziendale, e aggiunge un nuovo doppio riconoscimento "HappyIndex® AtWork" e "WeImpact Index®", indici di soddisfazione da parte degli stakeholder interni.
 :::
 
 ::::
