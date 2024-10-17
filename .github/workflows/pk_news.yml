@@ -27,7 +27,7 @@ jobs:
         chmod +x scrape
         chmod +x mlr
         chmod +x mlrgo
-        sudo pip install --user yq
+        pip install --user yq
         cd ~/bin
         wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.398/quarto-1.4.398-linux-amd64.tar.gz
         tar -C ./ -xvzf quarto-1.4.398-linux-amd64.tar.gz
