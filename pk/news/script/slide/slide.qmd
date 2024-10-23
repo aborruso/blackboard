@@ -39,6 +39,22 @@ Planetek Italia sarà presente a Ecomondo dal 5 all’8 Novembre 2024 a Rimini. 
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/ECOMONDO_square-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/11/ecomondo_2024)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Ecomondo 2024
+
+Lo Spazio per le Water Utilities e la Blue Economy. È il tema proposto da Planetek Italia per l'evento internazionale Ecomondo che si svolge a Rimini il 5-8 Novembre 2024. Ecomondo è l’evento internazionale di riferimento in Europa e nel bacino del Mediterraneo per le tecnologie, i servizi e le soluzioni industriali nei settori della green and circular economy.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/IAC-2024-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/10/iac_2024_international_astronautical_congress)
 :::
 
@@ -318,22 +334,6 @@ Planetek Italia partecipa allo IAC - International Astronautical Congress 2024 c
 ### Planetek Academy 2024: Elaborare immagini satellitari con Python in ambiente cloud
 
 Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python in ambiente cloud" When: 17-18-19 luglio 2024 c/o SPEGEA - Mete Business School, Parco Politecnico di Bari, Viale Japigia 182/188, Bari. Planetek Academy è un innovativo percorso formativo gratuito promosso e organizzato da Planetek Italia, indirizzato a laureati interessati a potenziare conoscenze e competenze utili ad accedere alle opportunità lavorative nel settore della Geomatica e dell'Earth observation.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-Academy-2024-banner-sq.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/07/planetek_academy_2024_elaborare_immagini_satellitari_con_python_in_ambiente_cloud)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek Academy 2024: Elaborare immagini satellitari con Python in ambiente cloud
-
-Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python in ambiente cloud" Dove e Quando: 17-18-19 luglio 2024 c/o SPEGEA - Mete Business School, Parco Politecnico di Bari, Viale Japigia 182/188, Bari. Skyrocket your career! Sono aperte le candidature alla Planetek Academy. Iscriviti e partecipa dal 17 al 19 luglio al corso gratuito di tre giorni (20 ore) "Elaborare immagini satellitari con Python in ambiente cloud" con project work e career day per giovani talenti.
 :::
 
 ::::
