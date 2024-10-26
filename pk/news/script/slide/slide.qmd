@@ -55,6 +55,22 @@ Lo Spazio per le Water Utilities e la Blue Economy. È il tema proposto da Plane
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Rheticus-Forest-Carbon-Offset-FS-banner.jpg)](https://www.planetek.it/progetti/progetto_rheticus_forest_carbon_offset)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Progetto Rheticus Forest Carbon Offset
+
+L'obiettivo dello studio di fattibilità “Rheticus® Forest Carbon Offset” è quello di soddisfare l'esigenza di una valutazione dell'affidabilità degli investimenti di compensazione delle emissioni per le strategie di sostenibilità delle aziende.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/IAC-2024-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/10/iac_2024_international_astronautical_congress)
 :::
 
@@ -318,22 +334,6 @@ Planetek Italia sarà presente a Ecomondo dal 5 all’8 Novembre 2024 a Rimini. 
 ### IAC 2024 - International Astronautical Congress
 
 Planetek Italia partecipa allo IAC - International Astronautical Congress 2024 che si svolge a Milano, il 14-18 Ottobre 2024. L'International Astronautical Congress prevede un programma di conferenze scientifiche e uno spazio espositivo dedicati allo Spazio. Un evento che riunisce circa 4.000 attori spaziali provenienti da tutto il mondo. Ogni anno lo IAC cambia paese di svolgimento, tema e organizzatore locale, consentendo a tutti di saperne di più e di far parte della rete spaziale mondiale.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/Planetek-Academy-2024-banner-sq.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/07/planetek_academy_2024_elaborare_immagini_satellitari_con_python_in_ambiente_cloud)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### Planetek Academy 2024: Elaborare immagini satellitari con Python in ambiente cloud
-
-Planetek Academy 2024: Corso gratuito "Elaborare immagini satellitari con Python in ambiente cloud" When: 17-18-19 luglio 2024 c/o SPEGEA - Mete Business School, Parco Politecnico di Bari, Viale Japigia 182/188, Bari. Planetek Academy è un innovativo percorso formativo gratuito promosso e organizzato da Planetek Italia, indirizzato a laureati interessati a potenziare conoscenze e competenze utili ad accedere alle opportunità lavorative nel settore della Geomatica e dell'Earth observation.
 :::
 
 ::::
