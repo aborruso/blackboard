@@ -23,6 +23,22 @@ format:
 :::: {.columns}
 
 ::: {.column width="60%"}
+[![](https://www.planetek.it/sites/default/files/social-banners/Accordo-Aquaqnexa-Planetek-Digitalizzazione-Monitoraggio-Water-Utilities.jpg)](https://www.planetek.it/news_eventi/archivio_news/2024/11/aquanexa_e_planetek_uniscono_le_forze_per_potenziare_l%E2%80%99offerta_di_servizi_alle_water_utilities)
+:::
+
+::: {.column width="40%" .r-fit-text}
+### Aquanexa e Planetek uniscono le forze per potenziare l’offerta di servizi alle water utilities
+
+Aquanexa e Planetek Italia hanno recentemente siglato un accordo strategico per potenziare i servizi di digitalizzazione e monitoraggio satellitare rivolti alle water utilities. L’intervista con Andrea Lanuzza (CEO Aquanexa), Luca Berardi (Innovation Manager Aquanexa) e Sergio Samarelli (CTO Planetek Italia) offre uno sguardo approfondito sulle opportunità di questa collaborazione.
+:::
+
+::::
+
+## {.r-text-fit}
+
+:::: {.columns}
+
+::: {.column width="60%"}
 [![](https://www.planetek.it/sites/default/files/social-banners/ECOMONDO_square-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/11/ecomondo_2024)
 :::
 
@@ -318,22 +334,6 @@ Planetek Academy: “Business e negoziazione efficace per la Space Economy” Pl
 ### Ecomondo 2024
 
 Planetek Italia sarà presente a Ecomondo dal 5 all’8 Novembre 2024 a Rimini. Ecomondo è l’evento internazionale di riferimento in Europa e nel bacino del Mediterraneo per le tecnologie, i servizi e le soluzioni industriali nei settori della green and circular economy. Un evento che da anni è diventato il punto di incontro e di dialogo tra industrie, stakeholder, policy maker, opinion leader, autorità locali, mondo della ricerca e delle istituzioni con l'obiettivo di mettere a sistema gli elementi chiave che definiscono le strategie di sviluppo della politica ambientale dell’Unione Europea.
-:::
-
-::::
-
-## {.r-text-fit}
-
-:::: {.columns}
-
-::: {.column width="60%"}
-[![](https://www.planetek.it/sites/default/files/social-banners/IAC-2024-1080.jpg)](https://www.planetek.it/news_eventi/tutti_gli_eventi/2024/08/iac_2024_international_astronautical_congress)
-:::
-
-::: {.column width="40%" .r-fit-text}
-### IAC 2024 - International Astronautical Congress
-
-Planetek Italia partecipa allo IAC - International Astronautical Congress 2024 che si svolge a Milano, il 14-18 Ottobre 2024. L'International Astronautical Congress prevede un programma di conferenze scientifiche e uno spazio espositivo dedicati allo Spazio. Un evento che riunisce circa 4.000 attori spaziali provenienti da tutto il mondo. Ogni anno lo IAC cambia paese di svolgimento, tema e organizzatore locale, consentendo a tutti di saperne di più e di far parte della rete spaziale mondiale.
 :::
 
 ::::
