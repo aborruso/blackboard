@@ -20,8 +20,13 @@
 
         async function loadFlatGeobuf() {
             const url = 'https://aborruso.github.io/blackboard/data/flatgeobuf/GEOSTAT_grid_POP_1K_IT_2011.fgb'; // Sostituisci con il tuo URL
-            for await (const feature of flatgeobuf.deserialize(url)) {
-                L.geoJSON(feature).addTo(map);
+            try {
+                for await (const feature of flatgeobuf.deserialize(url)) {
+                    console.log(feature); // Debug: stampa ogni feature nel console
+                    L.geoJSON(feature).addTo(map);
+                }
+            } catch (error) {
+                console.error('Errore durante il caricamento del file FlatGeobuf:', error);
             }
         }
 
