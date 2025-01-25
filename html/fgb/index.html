@@ -19,7 +19,7 @@
         }).addTo(map);
 
         async function loadFlatGeobuf() {
-            const url = 'https://raw.githubusercontent.com/tuo-username/tuo-repo/main/tuo-file.fgb'; // Sostituisci con il tuo URL
+            const url = 'https://aborruso.github.io/blackboard/data/flatgeobuf/GEOSTAT_grid_POP_1K_IT_2011_4326.fgb'; // Sostituisci con il tuo URL
             for await (const feature of flatgeobuf.deserialize(url)) {
                 L.geoJSON(feature).addTo(map);
             }
