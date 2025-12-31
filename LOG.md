@@ -10,4 +10,5 @@
   - grunt: ~0.4.5 → ~1.6.1
   - node-sass: ~3.3.3 → ~9.0.0
   - grunt-contrib-*: aggiornati tutti i plugin
+- Remove trash/ directory (conteneva dipendenze obsolete con CVE)
 - Add CLAUDE.md per Claude Code
