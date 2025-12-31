@@ -1,4 +1,9 @@
-# Fix socket.io vulnerabilities
+# Fix npm vulnerabilities (12 total: 2 high, 8 moderate, 2 low)
+
+## Completate
+- socket.io: risolte CVE-2020-28481, CVE-2024-38355
+
+# Rimanenti - reveal.js dependencies
 
 ## Problema
 socket.io ~1.3.7 in reveal.js ha 4 CVE (CVE-2020-28481, CVE-2024-38355)
